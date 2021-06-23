@@ -1378,6 +1378,7 @@ $dokka.location:tools.aqua.bgw.visual/Visual.Companion///PointingToDeclaration/
 $dokka.location:tools.aqua.bgw.visual/Visual.Companion/EMPTY/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-visual/-companion/-e-m-p-t-y.html
 $dokka.location:tools.aqua.bgw.visual/Visual///PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-visual/index.html
 $dokka.location:tools.aqua.bgw.visual/Visual/transparency/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-visual/transparency.html
+$dokka.location:tools.aqua.bgw.visual/Visual/transparencyProperty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-visual/transparency-property.html
 dsl
 examples.main
 examples.maumau.controller
