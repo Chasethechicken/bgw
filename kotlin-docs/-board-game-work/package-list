@@ -527,6 +527,7 @@ $dokka.location:tools.aqua.bgw.elements.layoutviews/GridLayoutView/getCellCenter
 $dokka.location:tools.aqua.bgw.elements.layoutviews/GridLayoutView/getColumnWidth/#kotlin.Int/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.layoutviews/-grid-layout-view/get-column-width.html
 $dokka.location:tools.aqua.bgw.elements.layoutviews/GridLayoutView/getRowHeight/#kotlin.Int/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.layoutviews/-grid-layout-view/get-row-height.html
 $dokka.location:tools.aqua.bgw.elements.layoutviews/GridLayoutView/grow/#kotlin.Int#kotlin.Int#kotlin.Int#kotlin.Int/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.layoutviews/-grid-layout-view/grow.html
+$dokka.location:tools.aqua.bgw.elements.layoutviews/GridLayoutView/iterator/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.layoutviews/-grid-layout-view/iterator.html
 $dokka.location:tools.aqua.bgw.elements.layoutviews/GridLayoutView/removeColumn/#kotlin.Int/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.layoutviews/-grid-layout-view/remove-column.html
 $dokka.location:tools.aqua.bgw.elements.layoutviews/GridLayoutView/removeEmptyColumns/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.layoutviews/-grid-layout-view/remove-empty-columns.html
 $dokka.location:tools.aqua.bgw.elements.layoutviews/GridLayoutView/removeEmptyRows/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.layoutviews/-grid-layout-view/remove-empty-rows.html
