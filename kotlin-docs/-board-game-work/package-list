@@ -637,6 +637,7 @@ $dokka.location:tools.aqua.bgw.elements/DynamicView/isDraggable/#/PointingToDecl
 $dokka.location:tools.aqua.bgw.elements/DynamicView/isDraggableProperty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-dynamic-view/is-draggable-property.html
 $dokka.location:tools.aqua.bgw.elements/DynamicView/isDragged/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-dynamic-view/is-dragged.html
 $dokka.location:tools.aqua.bgw.elements/DynamicView/isDraggedProperty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-dynamic-view/is-dragged-property.html
+$dokka.location:tools.aqua.bgw.elements/DynamicView/onDragGestureEnded/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-dynamic-view/on-drag-gesture-ended.html
 $dokka.location:tools.aqua.bgw.elements/DynamicView/onDragGestureMoved/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-dynamic-view/on-drag-gesture-moved.html
 $dokka.location:tools.aqua.bgw.elements/DynamicView/onDragGestureStarted/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-dynamic-view/on-drag-gesture-started.html
 $dokka.location:tools.aqua.bgw.elements/ElementView///PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-element-view/index.html
@@ -655,7 +656,6 @@ $dokka.location:tools.aqua.bgw.elements/ElementView/isVisible/#/PointingToDeclar
 $dokka.location:tools.aqua.bgw.elements/ElementView/isVisibleProperty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-element-view/is-visible-property.html
 $dokka.location:tools.aqua.bgw.elements/ElementView/name/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-element-view/name.html
 $dokka.location:tools.aqua.bgw.elements/ElementView/onDragElementDropped/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-element-view/on-drag-element-dropped.html
-$dokka.location:tools.aqua.bgw.elements/ElementView/onDragGestureEnded/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-element-view/on-drag-gesture-ended.html
 $dokka.location:tools.aqua.bgw.elements/ElementView/onKeyPressed/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-element-view/on-key-pressed.html
 $dokka.location:tools.aqua.bgw.elements/ElementView/onKeyReleased/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-element-view/on-key-released.html
 $dokka.location:tools.aqua.bgw.elements/ElementView/onKeyTyped/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-element-view/on-key-typed.html
