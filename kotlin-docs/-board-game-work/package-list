@@ -146,6 +146,7 @@ $dokka.location:examples.maumau.view/GameScene/drawStackInfo/#/PointingToDeclara
 $dokka.location:examples.maumau.view/GameScene/drawStackView/#/PointingToDeclaration/-board-game-work/examples.maumau.view/-game-scene/draw-stack-view.html
 $dokka.location:examples.maumau.view/GameScene/gameStackInfo/#/PointingToDeclaration/-board-game-work/examples.maumau.view/-game-scene/game-stack-info.html
 $dokka.location:examples.maumau.view/GameScene/gameStackView/#/PointingToDeclaration/-board-game-work/examples.maumau.view/-game-scene/game-stack-view.html
+$dokka.location:examples.maumau.view/GameScene/grid/#/PointingToDeclaration/-board-game-work/examples.maumau.view/-game-scene/grid.html
 $dokka.location:examples.maumau.view/GameScene/mainMenuButton/#/PointingToDeclaration/-board-game-work/examples.maumau.view/-game-scene/main-menu-button.html
 $dokka.location:examples.maumau.view/GameScene/otherPlayerHand/#/PointingToDeclaration/-board-game-work/examples.maumau.view/-game-scene/other-player-hand.html
 $dokka.location:examples.maumau.view/MauMauMenuScene///PointingToDeclaration/-board-game-work/examples.maumau.view/-mau-mau-menu-scene/index.html
@@ -548,7 +549,6 @@ $dokka.location:tools.aqua.bgw.elements.layoutviews/GridLayoutView/setRowHeight/
 $dokka.location:tools.aqua.bgw.elements.layoutviews/GridLayoutView/setRowHeights/#kotlin.DoubleArray/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.layoutviews/-grid-layout-view/set-row-heights.html
 $dokka.location:tools.aqua.bgw.elements.layoutviews/GridLayoutView/spacing/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.layoutviews/-grid-layout-view/spacing.html
 $dokka.location:tools.aqua.bgw.elements.layoutviews/GridLayoutView/trim/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.layoutviews/-grid-layout-view/trim.html
-$dokka.location:tools.aqua.bgw.elements.layoutviews/GridLayoutView/update/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.layoutviews/-grid-layout-view/update.html
 $dokka.location:tools.aqua.bgw.elements.layoutviews/LayoutElement///PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.layoutviews/-layout-element/index.html
 $dokka.location:tools.aqua.bgw.elements.uielements////PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/index.html
 $dokka.location:tools.aqua.bgw.elements.uielements/Button.Companion///PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-button/-companion/index.html
@@ -1306,6 +1306,8 @@ $dokka.location:tools.aqua.bgw.util/BidirectionalMap/removeBackward/#TypeParam(b
 $dokka.location:tools.aqua.bgw.util/BidirectionalMap/removeForward/#TypeParam(bounds=[kotlin.Any])/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-bidirectional-map/remove-forward.html
 $dokka.location:tools.aqua.bgw.util/Coordinate///PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-coordinate/index.html
 $dokka.location:tools.aqua.bgw.util/Coordinate/Coordinate/#kotlin.Number#kotlin.Number/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-coordinate/-coordinate.html
+$dokka.location:tools.aqua.bgw.util/Coordinate/minus/#tools.aqua.bgw.util.Coordinate/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-coordinate/minus.html
+$dokka.location:tools.aqua.bgw.util/Coordinate/plus/#tools.aqua.bgw.util.Coordinate/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-coordinate/plus.html
 $dokka.location:tools.aqua.bgw.util/Coordinate/rotated/#kotlin.Double#tools.aqua.bgw.util.Coordinate/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-coordinate/rotated.html
 $dokka.location:tools.aqua.bgw.util/Coordinate/rotated/#kotlin.Double/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-coordinate/rotated.html
 $dokka.location:tools.aqua.bgw.util/Coordinate/toString/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-coordinate/to-string.html
