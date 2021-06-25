@@ -550,9 +550,6 @@ $dokka.location:tools.aqua.bgw.elements.layoutviews/GridLayoutView/spacing/#/Poi
 $dokka.location:tools.aqua.bgw.elements.layoutviews/GridLayoutView/trim/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.layoutviews/-grid-layout-view/trim.html
 $dokka.location:tools.aqua.bgw.elements.layoutviews/LayoutElement///PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.layoutviews/-layout-element/index.html
 $dokka.location:tools.aqua.bgw.elements.uielements////PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/index.html
-$dokka.location:tools.aqua.bgw.elements.uielements/Button.Companion///PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-button/-companion/index.html
-$dokka.location:tools.aqua.bgw.elements.uielements/Button.Companion/SOPRA_BUTTON_HEIGHT/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-button/-companion/-s-o-p-r-a_-b-u-t-t-o-n_-h-e-i-g-h-t.html
-$dokka.location:tools.aqua.bgw.elements.uielements/Button.Companion/SOPRA_BUTTON_WIDTH/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-button/-companion/-s-o-p-r-a_-b-u-t-t-o-n_-w-i-d-t-h.html
 $dokka.location:tools.aqua.bgw.elements.uielements/Button///PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-button/index.html
 $dokka.location:tools.aqua.bgw.elements.uielements/Button/Button/#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.String#tools.aqua.bgw.util.Font/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-button/-button.html
 $dokka.location:tools.aqua.bgw.elements.uielements/CheckBox///PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-check-box/index.html
@@ -564,8 +561,8 @@ $dokka.location:tools.aqua.bgw.elements.uielements/CheckBox/checkedProperty/#/Po
 $dokka.location:tools.aqua.bgw.elements.uielements/CheckBox/indeterminateProperty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-check-box/indeterminate-property.html
 $dokka.location:tools.aqua.bgw.elements.uielements/CheckBox/isIndeterminate/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-check-box/is-indeterminate.html
 $dokka.location:tools.aqua.bgw.elements.uielements/ColorPicker.Companion///PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-color-picker/-companion/index.html
-$dokka.location:tools.aqua.bgw.elements.uielements/ColorPicker.Companion/SOPRA_COLOR_PICKER_HEIGHT/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-color-picker/-companion/-s-o-p-r-a_-c-o-l-o-r_-p-i-c-k-e-r_-h-e-i-g-h-t.html
-$dokka.location:tools.aqua.bgw.elements.uielements/ColorPicker.Companion/SOPRA_COLOR_PICKER_WIDTH/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-color-picker/-companion/-s-o-p-r-a_-c-o-l-o-r_-p-i-c-k-e-r_-w-i-d-t-h.html
+$dokka.location:tools.aqua.bgw.elements.uielements/ColorPicker.Companion/COLOR_PICKER_HEIGHT/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-color-picker/-companion/-c-o-l-o-r_-p-i-c-k-e-r_-h-e-i-g-h-t.html
+$dokka.location:tools.aqua.bgw.elements.uielements/ColorPicker.Companion/COLOR_PICKER_WIDTH/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-color-picker/-companion/-c-o-l-o-r_-p-i-c-k-e-r_-w-i-d-t-h.html
 $dokka.location:tools.aqua.bgw.elements.uielements/ColorPicker///PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-color-picker/index.html
 $dokka.location:tools.aqua.bgw.elements.uielements/ColorPicker/ColorPicker/#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.Number#java.awt.Color/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-color-picker/-color-picker.html
 $dokka.location:tools.aqua.bgw.elements.uielements/ColorPicker/initialColor/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-color-picker/initial-color.html
