@@ -1340,6 +1340,11 @@ $dokka.location:tools.aqua.bgw.util/FontStyle.SEMI_BOLD///PointingToDeclaration/
 $dokka.location:tools.aqua.bgw.util/FontStyle.SEMI_BOLD/name/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-font-style/-s-e-m-i_-b-o-l-d/name.html
 $dokka.location:tools.aqua.bgw.util/FontStyle.SEMI_BOLD/ordinal/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-font-style/-s-e-m-i_-b-o-l-d/ordinal.html
 $dokka.location:tools.aqua.bgw.util/FontStyle///PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-font-style/index.html
+$dokka.location:tools.aqua.bgw.util/GridIteratorElement///PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-grid-iterator-element/index.html
+$dokka.location:tools.aqua.bgw.util/GridIteratorElement/GridIteratorElement/#kotlin.Int#kotlin.Int#TypeParam(bounds=[kotlin.Any?])?/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-grid-iterator-element/-grid-iterator-element.html
+$dokka.location:tools.aqua.bgw.util/GridIteratorElement/columnIndex/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-grid-iterator-element/column-index.html
+$dokka.location:tools.aqua.bgw.util/GridIteratorElement/element/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-grid-iterator-element/element.html
+$dokka.location:tools.aqua.bgw.util/GridIteratorElement/rowIndex/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-grid-iterator-element/row-index.html
 $dokka.location:tools.aqua.bgw.util/KStack///PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-k-stack/index.html
 $dokka.location:tools.aqua.bgw.util/KStack/KStack/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-k-stack/-k-stack.html
 $dokka.location:tools.aqua.bgw.util/KStack/clear/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-k-stack/clear.html
