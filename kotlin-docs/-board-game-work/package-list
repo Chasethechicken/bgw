@@ -553,9 +553,12 @@ $dokka.location:tools.aqua.bgw.elements.uielements/ColorPicker///PointingToDecla
 $dokka.location:tools.aqua.bgw.elements.uielements/ColorPicker/ColorPicker/#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.Number#java.awt.Color/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-color-picker/-color-picker.html
 $dokka.location:tools.aqua.bgw.elements.uielements/ColorPicker/initialColor/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-color-picker/initial-color.html
 $dokka.location:tools.aqua.bgw.elements.uielements/ComboBox///PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-combo-box/index.html
-$dokka.location:tools.aqua.bgw.elements.uielements/ComboBox/ComboBox/#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.String#tools.aqua.bgw.util.Font#kotlin.collections.List[TypeParam(bounds=[kotlin.Any?])]#TypeParam(bounds=[kotlin.Any?])?/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-combo-box/-combo-box.html
+$dokka.location:tools.aqua.bgw.elements.uielements/ComboBox/ComboBox/#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.String#tools.aqua.bgw.util.Font#kotlin.collections.List[TypeParam(bounds=[kotlin.Any?])]#TypeParam(bounds=[kotlin.Any?])?#kotlin.Function1[TypeParam(bounds=[kotlin.Any?]),kotlin.String]?/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-combo-box/-combo-box.html
+$dokka.location:tools.aqua.bgw.elements.uielements/ComboBox/formatFunction/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-combo-box/format-function.html
+$dokka.location:tools.aqua.bgw.elements.uielements/ComboBox/formatFunctionProperty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-combo-box/format-function-property.html
 $dokka.location:tools.aqua.bgw.elements.uielements/ComboBox/items/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-combo-box/items.html
 $dokka.location:tools.aqua.bgw.elements.uielements/ComboBox/observableItemsList/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-combo-box/observable-items-list.html
+$dokka.location:tools.aqua.bgw.elements.uielements/ComboBox/prompt/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-combo-box/prompt.html
 $dokka.location:tools.aqua.bgw.elements.uielements/ComboBox/selectedItem/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-combo-box/selected-item.html
 $dokka.location:tools.aqua.bgw.elements.uielements/ComboBox/selectedItemProperty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-combo-box/selected-item-property.html
 $dokka.location:tools.aqua.bgw.elements.uielements/Label///PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-label/index.html
@@ -1340,9 +1343,9 @@ $dokka.location:tools.aqua.bgw.util/FontStyle.BOLD/ordinal/#/PointingToDeclarati
 $dokka.location:tools.aqua.bgw.util/FontStyle.Italic///PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-font-style/-italic/index.html
 $dokka.location:tools.aqua.bgw.util/FontStyle.Italic/name/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-font-style/-italic/name.html
 $dokka.location:tools.aqua.bgw.util/FontStyle.Italic/ordinal/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-font-style/-italic/ordinal.html
-$dokka.location:tools.aqua.bgw.util/FontStyle.NORMAL///PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-font-style/-n-o-r-m-a-l/index.html
-$dokka.location:tools.aqua.bgw.util/FontStyle.NORMAL/name/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-font-style/-n-o-r-m-a-l/name.html
-$dokka.location:tools.aqua.bgw.util/FontStyle.NORMAL/ordinal/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-font-style/-n-o-r-m-a-l/ordinal.html
+$dokka.location:tools.aqua.bgw.util/FontStyle.REGULAR///PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-font-style/-r-e-g-u-l-a-r/index.html
+$dokka.location:tools.aqua.bgw.util/FontStyle.REGULAR/name/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-font-style/-r-e-g-u-l-a-r/name.html
+$dokka.location:tools.aqua.bgw.util/FontStyle.REGULAR/ordinal/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-font-style/-r-e-g-u-l-a-r/ordinal.html
 $dokka.location:tools.aqua.bgw.util/FontStyle.SEMI_BOLD///PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-font-style/-s-e-m-i_-b-o-l-d/index.html
 $dokka.location:tools.aqua.bgw.util/FontStyle.SEMI_BOLD/name/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-font-style/-s-e-m-i_-b-o-l-d/name.html
 $dokka.location:tools.aqua.bgw.util/FontStyle.SEMI_BOLD/ordinal/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-font-style/-s-e-m-i_-b-o-l-d/ordinal.html
@@ -1357,6 +1360,7 @@ $dokka.location:tools.aqua.bgw.util/KStack/KStack/#/PointingToDeclaration/-boar
 $dokka.location:tools.aqua.bgw.util/KStack/clear/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-k-stack/clear.html
 $dokka.location:tools.aqua.bgw.util/KStack/indexOf/#TypeParam(bounds=[kotlin.Any?])/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-k-stack/index-of.html
 $dokka.location:tools.aqua.bgw.util/KStack/isEmpty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-k-stack/is-empty.html
+$dokka.location:tools.aqua.bgw.util/KStack/isNotEmpty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-k-stack/is-not-empty.html
 $dokka.location:tools.aqua.bgw.util/KStack/peek/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-k-stack/peek.html
 $dokka.location:tools.aqua.bgw.util/KStack/peekAll/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-k-stack/peek-all.html
 $dokka.location:tools.aqua.bgw.util/KStack/pop/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-k-stack/pop.html
