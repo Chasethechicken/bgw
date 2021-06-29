@@ -1289,6 +1289,8 @@ $dokka.location:tools.aqua.bgw.util////PointingToDeclaration/-board-game-work/t
 $dokka.location:tools.aqua.bgw.util/BidirectionalMap///PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-bidirectional-map/index.html
 $dokka.location:tools.aqua.bgw.util/BidirectionalMap/BidirectionalMap/#kotlin.Array[kotlin.Pair[TypeParam(bounds=[kotlin.Any]),TypeParam(bounds=[kotlin.Any])]]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-bidirectional-map/-bidirectional-map.html
 $dokka.location:tools.aqua.bgw.util/BidirectionalMap/add/#TypeParam(bounds=[kotlin.Any])#TypeParam(bounds=[kotlin.Any])/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-bidirectional-map/add.html
+$dokka.location:tools.aqua.bgw.util/BidirectionalMap/add/#kotlin.Pair[TypeParam(bounds=[kotlin.Any]),TypeParam(bounds=[kotlin.Any])]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-bidirectional-map/add.html
+$dokka.location:tools.aqua.bgw.util/BidirectionalMap/addAll/#kotlin.Array[kotlin.Pair[TypeParam(bounds=[kotlin.Any]),TypeParam(bounds=[kotlin.Any])]]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-bidirectional-map/add-all.html
 $dokka.location:tools.aqua.bgw.util/BidirectionalMap/backward/#TypeParam(bounds=[kotlin.Any])/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-bidirectional-map/backward.html
 $dokka.location:tools.aqua.bgw.util/BidirectionalMap/backwardOrNull/#TypeParam(bounds=[kotlin.Any])/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-bidirectional-map/backward-or-null.html
 $dokka.location:tools.aqua.bgw.util/BidirectionalMap/clear/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-bidirectional-map/clear.html
@@ -1299,10 +1301,13 @@ $dokka.location:tools.aqua.bgw.util/BidirectionalMap/forward/#TypeParam(bounds=[
 $dokka.location:tools.aqua.bgw.util/BidirectionalMap/forwardOrNull/#TypeParam(bounds=[kotlin.Any])/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-bidirectional-map/forward-or-null.html
 $dokka.location:tools.aqua.bgw.util/BidirectionalMap/getCoDomain/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-bidirectional-map/get-co-domain.html
 $dokka.location:tools.aqua.bgw.util/BidirectionalMap/getDomain/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-bidirectional-map/get-domain.html
+$dokka.location:tools.aqua.bgw.util/BidirectionalMap/isEmpty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-bidirectional-map/is-empty.html
+$dokka.location:tools.aqua.bgw.util/BidirectionalMap/isNotEmpty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-bidirectional-map/is-not-empty.html
 $dokka.location:tools.aqua.bgw.util/BidirectionalMap/remove/#TypeParam(bounds=[kotlin.Any])#TypeParam(bounds=[kotlin.Any])/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-bidirectional-map/remove.html
 $dokka.location:tools.aqua.bgw.util/BidirectionalMap/remove/#kotlin.Pair[TypeParam(bounds=[kotlin.Any]),TypeParam(bounds=[kotlin.Any])]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-bidirectional-map/remove.html
 $dokka.location:tools.aqua.bgw.util/BidirectionalMap/removeBackward/#TypeParam(bounds=[kotlin.Any])/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-bidirectional-map/remove-backward.html
 $dokka.location:tools.aqua.bgw.util/BidirectionalMap/removeForward/#TypeParam(bounds=[kotlin.Any])/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-bidirectional-map/remove-forward.html
+$dokka.location:tools.aqua.bgw.util/BidirectionalMap/size/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-bidirectional-map/size.html
 $dokka.location:tools.aqua.bgw.util/Coordinate///PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-coordinate/index.html
 $dokka.location:tools.aqua.bgw.util/Coordinate/Coordinate/#kotlin.Number#kotlin.Number/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-coordinate/-coordinate.html
 $dokka.location:tools.aqua.bgw.util/Coordinate/equals/#kotlin.Any?/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-coordinate/equals.html
