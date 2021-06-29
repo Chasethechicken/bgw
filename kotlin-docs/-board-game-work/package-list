@@ -621,6 +621,8 @@ $dokka.location:tools.aqua.bgw.elements//reposition/tools.aqua.bgw.elements.Elem
 $dokka.location:tools.aqua.bgw.elements//resize/tools.aqua.bgw.elements.ElementView#kotlin.Number#kotlin.Number/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/resize.html
 $dokka.location:tools.aqua.bgw.elements//rotate/tools.aqua.bgw.elements.ElementView#kotlin.Number/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/rotate.html
 $dokka.location:tools.aqua.bgw.elements//scale/tools.aqua.bgw.elements.ElementView#kotlin.Number/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/scale.html
+$dokka.location:tools.aqua.bgw.elements//scaleHeight/tools.aqua.bgw.elements.ElementView#kotlin.Number/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/scale-height.html
+$dokka.location:tools.aqua.bgw.elements//scaleWidth/tools.aqua.bgw.elements.ElementView#kotlin.Number/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/scale-width.html
 $dokka.location:tools.aqua.bgw.elements//visual/tools.aqua.bgw.elements.ElementView#kotlin.Function0[tools.aqua.bgw.visual.Visual]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/visual.html
 $dokka.location:tools.aqua.bgw.elements/DynamicView///PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-dynamic-view/index.html
 $dokka.location:tools.aqua.bgw.elements/DynamicView/DynamicView/#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.collections.MutableList[tools.aqua.bgw.visual.Visual]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-dynamic-view/-dynamic-view.html
