@@ -1304,6 +1304,7 @@ $dokka.location:tools.aqua.bgw.util/BidirectionalMap/backward/#TypeParam(bounds=
 $dokka.location:tools.aqua.bgw.util/BidirectionalMap/backwardOrNull/#TypeParam(bounds=[kotlin.Any])/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-bidirectional-map/backward-or-null.html
 $dokka.location:tools.aqua.bgw.util/BidirectionalMap/clear/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-bidirectional-map/clear.html
 $dokka.location:tools.aqua.bgw.util/BidirectionalMap/contains/#TypeParam(bounds=[kotlin.Any])#TypeParam(bounds=[kotlin.Any])/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-bidirectional-map/contains.html
+$dokka.location:tools.aqua.bgw.util/BidirectionalMap/contains/#kotlin.Pair[TypeParam(bounds=[kotlin.Any]),TypeParam(bounds=[kotlin.Any])]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-bidirectional-map/contains.html
 $dokka.location:tools.aqua.bgw.util/BidirectionalMap/containsBackward/#TypeParam(bounds=[kotlin.Any])/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-bidirectional-map/contains-backward.html
 $dokka.location:tools.aqua.bgw.util/BidirectionalMap/containsForward/#TypeParam(bounds=[kotlin.Any])/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-bidirectional-map/contains-forward.html
 $dokka.location:tools.aqua.bgw.util/BidirectionalMap/forward/#TypeParam(bounds=[kotlin.Any])/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-bidirectional-map/forward.html
