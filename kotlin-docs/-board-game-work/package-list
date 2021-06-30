@@ -309,6 +309,9 @@ $dokka.location:tools.aqua.bgw.core/ScaleMode.ONLY_SHRINK///PointingToDeclaratio
 $dokka.location:tools.aqua.bgw.core/ScaleMode.ONLY_SHRINK/name/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-scale-mode/-o-n-l-y_-s-h-r-i-n-k/name.html
 $dokka.location:tools.aqua.bgw.core/ScaleMode.ONLY_SHRINK/ordinal/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-scale-mode/-o-n-l-y_-s-h-r-i-n-k/ordinal.html
 $dokka.location:tools.aqua.bgw.core/ScaleMode///PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-scale-mode/index.html
+$dokka.location:tools.aqua.bgw.core/Scene.Companion///PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-scene/-companion/index.html
+$dokka.location:tools.aqua.bgw.core/Scene.Companion/DEFAULT_SCENE_HEIGHT/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-scene/-companion/-d-e-f-a-u-l-t_-s-c-e-n-e_-h-e-i-g-h-t.html
+$dokka.location:tools.aqua.bgw.core/Scene.Companion/DEFAULT_SCENE_WIDTH/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-scene/-companion/-d-e-f-a-u-l-t_-s-c-e-n-e_-w-i-d-t-h.html
 $dokka.location:tools.aqua.bgw.core/Scene///PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-scene/index.html
 $dokka.location:tools.aqua.bgw.core/Scene/addElements/#kotlin.Array[TypeParam(bounds=[tools.aqua.bgw.elements.ElementView])]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-scene/add-elements.html
 $dokka.location:tools.aqua.bgw.core/Scene/background/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-scene/background.html
