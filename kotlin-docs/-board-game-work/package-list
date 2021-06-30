@@ -25,6 +25,7 @@ $dokka.location:dsl/ToggleGroupBuilder///PointingToDeclaration/-board-game-work
 $dokka.location:dsl/ToggleGroupBuilder/ToggleGroupBuilder/#/PointingToDeclaration/-board-game-work/dsl/-toggle-group-builder/-toggle-group-builder.html
 $dokka.location:examples.main////PointingToDeclaration/-board-game-work/examples.main/index.html
 $dokka.location:examples.main//BG_FILE/#/PointingToDeclaration/-board-game-work/examples.main/-b-g_-f-i-l-e.html
+$dokka.location:examples.main//BUTTON_BG_FILE/#/PointingToDeclaration/-board-game-work/examples.main/-b-u-t-t-o-n_-b-g_-f-i-l-e.html
 $dokka.location:examples.main//CARDS_FILE/#/PointingToDeclaration/-board-game-work/examples.main/-c-a-r-d-s_-f-i-l-e.html
 $dokka.location:examples.main//DICE_FILE/#/PointingToDeclaration/-board-game-work/examples.main/-d-i-c-e_-f-i-l-e.html
 $dokka.location:examples.main//IMG_HEIGHT/#/PointingToDeclaration/-board-game-work/examples.main/-i-m-g_-h-e-i-g-h-t.html
@@ -178,6 +179,7 @@ $dokka.location:examples.maumau.view/ViewController///PointingToDeclaration/-bo
 $dokka.location:examples.maumau.view/ViewController/ViewController/#/PointingToDeclaration/-board-game-work/examples.maumau.view/-view-controller/-view-controller.html
 $dokka.location:examples.maumau.view/ViewController/cardMap/#/PointingToDeclaration/-board-game-work/examples.maumau.view/-view-controller/card-map.html
 $dokka.location:examples.maumau.view/ViewController/gameScene/#/PointingToDeclaration/-board-game-work/examples.maumau.view/-view-controller/game-scene.html
+$dokka.location:examples.maumau.view/ViewController/i/#/PointingToDeclaration/-board-game-work/examples.maumau.view/-view-controller/i.html
 $dokka.location:examples.maumau.view/ViewController/logicController/#/PointingToDeclaration/-board-game-work/examples.maumau.view/-view-controller/logic-controller.html
 $dokka.location:examples.maumau.view/ViewController/mauMauMenuScene/#/PointingToDeclaration/-board-game-work/examples.maumau.view/-view-controller/mau-mau-menu-scene.html
 $dokka.location:examples.maumau.view/ViewController/refreshViewController/#/PointingToDeclaration/-board-game-work/examples.maumau.view/-view-controller/refresh-view-controller.html
@@ -271,6 +273,7 @@ $dokka.location:tools.aqua.bgw.core/Alignment/horizontalAlignment/#/PointingToDe
 $dokka.location:tools.aqua.bgw.core/Alignment/verticalAlignment/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-alignment/vertical-alignment.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication///PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/index.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/BoardGameApplication/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/-board-game-application.html
+$dokka.location:tools.aqua.bgw.core/BoardGameApplication/background/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/background.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/hideMenuScene/#kotlin.Number/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/hide-menu-scene.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/repaint/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/repaint.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/setFullScreen/#kotlin.Boolean/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/set-full-screen.html
@@ -1343,9 +1346,9 @@ $dokka.location:tools.aqua.bgw.util/Font/size/#/PointingToDeclaration/-board-ga
 $dokka.location:tools.aqua.bgw.util/FontStyle.BOLD///PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-font-style/-b-o-l-d/index.html
 $dokka.location:tools.aqua.bgw.util/FontStyle.BOLD/name/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-font-style/-b-o-l-d/name.html
 $dokka.location:tools.aqua.bgw.util/FontStyle.BOLD/ordinal/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-font-style/-b-o-l-d/ordinal.html
-$dokka.location:tools.aqua.bgw.util/FontStyle.Italic///PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-font-style/-italic/index.html
-$dokka.location:tools.aqua.bgw.util/FontStyle.Italic/name/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-font-style/-italic/name.html
-$dokka.location:tools.aqua.bgw.util/FontStyle.Italic/ordinal/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-font-style/-italic/ordinal.html
+$dokka.location:tools.aqua.bgw.util/FontStyle.ITALIC///PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-font-style/-i-t-a-l-i-c/index.html
+$dokka.location:tools.aqua.bgw.util/FontStyle.ITALIC/name/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-font-style/-i-t-a-l-i-c/name.html
+$dokka.location:tools.aqua.bgw.util/FontStyle.ITALIC/ordinal/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-font-style/-i-t-a-l-i-c/ordinal.html
 $dokka.location:tools.aqua.bgw.util/FontStyle.REGULAR///PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-font-style/-r-e-g-u-l-a-r/index.html
 $dokka.location:tools.aqua.bgw.util/FontStyle.REGULAR/name/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-font-style/-r-e-g-u-l-a-r/name.html
 $dokka.location:tools.aqua.bgw.util/FontStyle.REGULAR/ordinal/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.util/-font-style/-r-e-g-u-l-a-r/ordinal.html
@@ -1407,7 +1410,9 @@ $dokka.location:tools.aqua.bgw.visual/ImageVisual/image/#/PointingToDeclaration/
 $dokka.location:tools.aqua.bgw.visual/ImageVisual/imageProperty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-image-visual/image-property.html
 $dokka.location:tools.aqua.bgw.visual/SingleLayerVisual///PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-single-layer-visual/index.html
 $dokka.location:tools.aqua.bgw.visual/TextVisual///PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-text-visual/index.html
-$dokka.location:tools.aqua.bgw.visual/TextVisual/TextVisual/#kotlin.String/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-text-visual/-text-visual.html
+$dokka.location:tools.aqua.bgw.visual/TextVisual/TextVisual/#kotlin.String#tools.aqua.bgw.util.Font/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-text-visual/-text-visual.html
+$dokka.location:tools.aqua.bgw.visual/TextVisual/font/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-text-visual/font.html
+$dokka.location:tools.aqua.bgw.visual/TextVisual/fontProperty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-text-visual/font-property.html
 $dokka.location:tools.aqua.bgw.visual/TextVisual/text/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-text-visual/text.html
 $dokka.location:tools.aqua.bgw.visual/TextVisual/textProperty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-text-visual/text-property.html
 $dokka.location:tools.aqua.bgw.visual/Visual.Companion///PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-visual/-companion/index.html
