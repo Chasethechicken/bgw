@@ -281,7 +281,6 @@ $dokka.location:tools.aqua.bgw.core/BoardGameApplication/BoardGameApplication/#/
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/background/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/background.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/hideMenuScene/#kotlin.Number/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/hide-menu-scene.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/repaint/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/repaint.html
-$dokka.location:tools.aqua.bgw.core/BoardGameApplication/setFullScreen/#kotlin.Boolean/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/set-full-screen.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/setHorizontalSceneAlignment/#tools.aqua.bgw.core.HorizontalAlignment/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/set-horizontal-scene-alignment.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/setScaleMode/#tools.aqua.bgw.core.ScaleMode/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/set-scale-mode.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/setSceneAlignment/#tools.aqua.bgw.core.Alignment/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/set-scene-alignment.html
@@ -332,10 +331,6 @@ $dokka.location:tools.aqua.bgw.core/Scene/playAnimation/#tools.aqua.bgw.animatio
 $dokka.location:tools.aqua.bgw.core/Scene/removeElements/#kotlin.Array[TypeParam(bounds=[tools.aqua.bgw.elements.ElementView])]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-scene/remove-elements.html
 $dokka.location:tools.aqua.bgw.core/Scene/rootNode/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-scene/root-node.html
 $dokka.location:tools.aqua.bgw.core/Scene/width/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-scene/width.html
-$dokka.location:tools.aqua.bgw.core/Scene/zoomOut/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-scene/zoom-out.html
-$dokka.location:tools.aqua.bgw.core/Scene/zoomTo/#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.Number/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-scene/zoom-to.html
-$dokka.location:tools.aqua.bgw.core/Scene/zoomTo/#tools.aqua.bgw.util.Coordinate#tools.aqua.bgw.util.Coordinate/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-scene/zoom-to.html
-$dokka.location:tools.aqua.bgw.core/Scene/zoomTo/#tools.aqua.bgw.util.CoordinatePlain/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-scene/zoom-to.html
 $dokka.location:tools.aqua.bgw.core/VerticalAlignment.BOTTOM///PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-vertical-alignment/-b-o-t-t-o-m/index.html
 $dokka.location:tools.aqua.bgw.core/VerticalAlignment.BOTTOM/name/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-vertical-alignment/-b-o-t-t-o-m/name.html
 $dokka.location:tools.aqua.bgw.core/VerticalAlignment.BOTTOM/ordinal/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-vertical-alignment/-b-o-t-t-o-m/ordinal.html
