@@ -207,6 +207,11 @@ $dokka.location:tools.aqua.bgw.animation/MovementAnimation/fromX/#/PointingToDec
 $dokka.location:tools.aqua.bgw.animation/MovementAnimation/fromY/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.animation/-movement-animation/from-y.html
 $dokka.location:tools.aqua.bgw.animation/MovementAnimation/toX/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.animation/-movement-animation/to-x.html
 $dokka.location:tools.aqua.bgw.animation/MovementAnimation/toY/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.animation/-movement-animation/to-y.html
+$dokka.location:tools.aqua.bgw.animation/RandomizeAnimation///PointingToDeclaration/-board-game-work/tools.aqua.bgw.animation/-randomize-animation/index.html
+$dokka.location:tools.aqua.bgw.animation/RandomizeAnimation/RandomizeAnimation/#TypeParam(bounds=[tools.aqua.bgw.elements.gameelements.GameElementView])#kotlin.collections.List[tools.aqua.bgw.visual.Visual]#tools.aqua.bgw.visual.Visual#kotlin.Int#kotlin.Int/PointingToDeclaration/-board-game-work/tools.aqua.bgw.animation/-randomize-animation/-randomize-animation.html
+$dokka.location:tools.aqua.bgw.animation/RandomizeAnimation/speed/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.animation/-randomize-animation/speed.html
+$dokka.location:tools.aqua.bgw.animation/RandomizeAnimation/toVisual/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.animation/-randomize-animation/to-visual.html
+$dokka.location:tools.aqua.bgw.animation/RandomizeAnimation/visuals/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.animation/-randomize-animation/visuals.html
 $dokka.location:tools.aqua.bgw.animation/RotationAnimation///PointingToDeclaration/-board-game-work/tools.aqua.bgw.animation/-rotation-animation/index.html
 $dokka.location:tools.aqua.bgw.animation/RotationAnimation/RotationAnimation/#TypeParam(bounds=[tools.aqua.bgw.elements.ElementView])#kotlin.Double#kotlin.Double#kotlin.Int/PointingToDeclaration/-board-game-work/tools.aqua.bgw.animation/-rotation-animation/-rotation-animation.html
 $dokka.location:tools.aqua.bgw.animation/RotationAnimation/RotationAnimation/#TypeParam(bounds=[tools.aqua.bgw.elements.ElementView])#kotlin.Double#kotlin.Int/PointingToDeclaration/-board-game-work/tools.aqua.bgw.animation/-rotation-animation/-rotation-animation.html
