@@ -277,7 +277,7 @@ $dokka.location:tools.aqua.bgw.core/Alignment///PointingToDeclaration/-board-ga
 $dokka.location:tools.aqua.bgw.core/Alignment/horizontalAlignment/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-alignment/horizontal-alignment.html
 $dokka.location:tools.aqua.bgw.core/Alignment/verticalAlignment/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-alignment/vertical-alignment.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication///PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/index.html
-$dokka.location:tools.aqua.bgw.core/BoardGameApplication/BoardGameApplication/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/-board-game-application.html
+$dokka.location:tools.aqua.bgw.core/BoardGameApplication/BoardGameApplication/#kotlin.String/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/-board-game-application.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/background/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/background.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/hideMenuScene/#kotlin.Number/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/hide-menu-scene.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/repaint/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/repaint.html
@@ -290,6 +290,7 @@ $dokka.location:tools.aqua.bgw.core/BoardGameApplication/showAlertDialog/#tools.
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/showFileDialog/#tools.aqua.bgw.dialog.FileDialog/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/show-file-dialog.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/showGameScene/#tools.aqua.bgw.core.BoardGameScene/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/show-game-scene.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/showMenuScene/#tools.aqua.bgw.core.MenuScene#kotlin.Number/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/show-menu-scene.html
+$dokka.location:tools.aqua.bgw.core/BoardGameApplication/title/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/title.html
 $dokka.location:tools.aqua.bgw.core/BoardGameScene///PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-scene/index.html
 $dokka.location:tools.aqua.bgw.core/BoardGameScene/BoardGameScene/#kotlin.Number#kotlin.Number/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-scene/-board-game-scene.html
 $dokka.location:tools.aqua.bgw.core/BoardGameScene/lock/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-scene/lock.html
