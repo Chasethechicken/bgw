@@ -218,6 +218,7 @@ $dokka.location:tools.aqua.bgw.animation/RotationAnimation/RotationAnimation/#Ty
 $dokka.location:tools.aqua.bgw.animation/RotationAnimation/fromAngle/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.animation/-rotation-animation/from-angle.html
 $dokka.location:tools.aqua.bgw.animation/RotationAnimation/toAngle/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.animation/-rotation-animation/to-angle.html
 $dokka.location:tools.aqua.bgw.builder////PointingToDeclaration/-board-game-work/tools.aqua.bgw.builder/index.html
+$dokka.location:tools.aqua.bgw.builder//toButtonType/javafx.scene.control.ButtonType#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.builder/to-button-type.html
 $dokka.location:tools.aqua.bgw.builder/DragDropHelper.Companion///PointingToDeclaration/-board-game-work/tools.aqua.bgw.builder/-drag-drop-helper/-companion/index.html
 $dokka.location:tools.aqua.bgw.builder/DragDropHelper///PointingToDeclaration/-board-game-work/tools.aqua.bgw.builder/-drag-drop-helper/index.html
 $dokka.location:tools.aqua.bgw.builder/DragDropHelper/DragDropHelper/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.builder/-drag-drop-helper/-drag-drop-helper.html
@@ -368,8 +369,6 @@ $dokka.location:tools.aqua.bgw.dialog/ButtonType.CANCEL/ordinal/#/PointingToDecl
 $dokka.location:tools.aqua.bgw.dialog/ButtonType.CLOSE///PointingToDeclaration/-board-game-work/tools.aqua.bgw.dialog/-button-type/-c-l-o-s-e/index.html
 $dokka.location:tools.aqua.bgw.dialog/ButtonType.CLOSE/name/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.dialog/-button-type/-c-l-o-s-e/name.html
 $dokka.location:tools.aqua.bgw.dialog/ButtonType.CLOSE/ordinal/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.dialog/-button-type/-c-l-o-s-e/ordinal.html
-$dokka.location:tools.aqua.bgw.dialog/ButtonType.Companion///PointingToDeclaration/-board-game-work/tools.aqua.bgw.dialog/-button-type/-companion/index.html
-$dokka.location:tools.aqua.bgw.dialog/ButtonType.Companion/fromButtonType/#javafx.scene.control.ButtonType/PointingToDeclaration/-board-game-work/tools.aqua.bgw.dialog/-button-type/-companion/from-button-type.html
 $dokka.location:tools.aqua.bgw.dialog/ButtonType.FINISH///PointingToDeclaration/-board-game-work/tools.aqua.bgw.dialog/-button-type/-f-i-n-i-s-h/index.html
 $dokka.location:tools.aqua.bgw.dialog/ButtonType.FINISH/name/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.dialog/-button-type/-f-i-n-i-s-h/name.html
 $dokka.location:tools.aqua.bgw.dialog/ButtonType.FINISH/ordinal/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.dialog/-button-type/-f-i-n-i-s-h/ordinal.html
