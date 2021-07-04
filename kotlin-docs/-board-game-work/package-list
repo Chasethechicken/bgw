@@ -681,8 +681,6 @@ $dokka.location:tools.aqua.bgw.event/DropEvent/DropEvent/#tools.aqua.bgw.element
 $dokka.location:tools.aqua.bgw.event/DropEvent/dragTargets/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.event/-drop-event/drag-targets.html
 $dokka.location:tools.aqua.bgw.event/Event///PointingToDeclaration/-board-game-work/tools.aqua.bgw.event/-event/index.html
 $dokka.location:tools.aqua.bgw.event/Event/Event/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.event/-event/-event.html
-$dokka.location:tools.aqua.bgw.event/EventHandler///PointingToDeclaration/-board-game-work/tools.aqua.bgw.event/-event-handler/index.html
-$dokka.location:tools.aqua.bgw.event/EventHandler/handle/#TypeParam(bounds=[tools.aqua.bgw.event.Event])/PointingToDeclaration/-board-game-work/tools.aqua.bgw.event/-event-handler/handle.html
 $dokka.location:tools.aqua.bgw.event/InputEvent///PointingToDeclaration/-board-game-work/tools.aqua.bgw.event/-input-event/index.html
 $dokka.location:tools.aqua.bgw.event/InputEvent/InputEvent/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.event/-input-event/-input-event.html
 $dokka.location:tools.aqua.bgw.event/KeyCode.A///PointingToDeclaration/-board-game-work/tools.aqua.bgw.event/-key-code/-a/index.html
@@ -1205,11 +1203,6 @@ $dokka.location:tools.aqua.bgw.event/MouseButtonType///PointingToDeclaration/-b
 $dokka.location:tools.aqua.bgw.event/MouseEvent///PointingToDeclaration/-board-game-work/tools.aqua.bgw.event/-mouse-event/index.html
 $dokka.location:tools.aqua.bgw.event/MouseEvent/MouseEvent/#tools.aqua.bgw.event.MouseButtonType/PointingToDeclaration/-board-game-work/tools.aqua.bgw.event/-mouse-event/-mouse-event.html
 $dokka.location:tools.aqua.bgw.event/MouseEvent/button/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.event/-mouse-event/button.html
-$dokka.location:tools.aqua.bgw.exception////PointingToDeclaration/-board-game-work/tools.aqua.bgw.exception/index.html
-$dokka.location:tools.aqua.bgw.exception/EmptyListException///PointingToDeclaration/-board-game-work/tools.aqua.bgw.exception/-empty-list-exception/index.html
-$dokka.location:tools.aqua.bgw.exception/EmptyListException/EmptyListException/#kotlin.String/PointingToDeclaration/-board-game-work/tools.aqua.bgw.exception/-empty-list-exception/-empty-list-exception.html
-$dokka.location:tools.aqua.bgw.exception/EmptyStackException///PointingToDeclaration/-board-game-work/tools.aqua.bgw.exception/-empty-stack-exception/index.html
-$dokka.location:tools.aqua.bgw.exception/EmptyStackException/EmptyStackException/#kotlin.String/PointingToDeclaration/-board-game-work/tools.aqua.bgw.exception/-empty-stack-exception/-empty-stack-exception.html
 $dokka.location:tools.aqua.bgw.observable////PointingToDeclaration/-board-game-work/tools.aqua.bgw.observable/index.html
 $dokka.location:tools.aqua.bgw.observable/BooleanProperty///PointingToDeclaration/-board-game-work/tools.aqua.bgw.observable/-boolean-property/index.html
 $dokka.location:tools.aqua.bgw.observable/BooleanProperty/BooleanProperty/#kotlin.Boolean/PointingToDeclaration/-board-game-work/tools.aqua.bgw.observable/-boolean-property/-boolean-property.html
@@ -1391,11 +1384,10 @@ $dokka.location:tools.aqua.bgw.visual/CompoundVisual/CompoundVisual/#kotlin.Arra
 $dokka.location:tools.aqua.bgw.visual/CompoundVisual/children/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-compound-visual/children.html
 $dokka.location:tools.aqua.bgw.visual/CompoundVisual/childrenProperty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-compound-visual/children-property.html
 $dokka.location:tools.aqua.bgw.visual/ImageVisual.Companion///PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-image-visual/-companion/index.html
-$dokka.location:tools.aqua.bgw.visual/ImageVisual.Companion/loadImage/#kotlin.String/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-image-visual/-companion/load-image.html
-$dokka.location:tools.aqua.bgw.visual/ImageVisual.Companion/loadSubImage/#kotlin.String#kotlin.Int#kotlin.Int#kotlin.Int#kotlin.Int/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-image-visual/-companion/load-sub-image.html
 $dokka.location:tools.aqua.bgw.visual/ImageVisual///PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-image-visual/index.html
-$dokka.location:tools.aqua.bgw.visual/ImageVisual/ImageVisual/#java.awt.image.BufferedImage/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-image-visual/-image-visual.html
-$dokka.location:tools.aqua.bgw.visual/ImageVisual/ImageVisual/#kotlin.String/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-image-visual/-image-visual.html
+$dokka.location:tools.aqua.bgw.visual/ImageVisual/ImageVisual/#java.awt.image.BufferedImage#kotlin.Int#kotlin.Int#kotlin.Int#kotlin.Int/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-image-visual/-image-visual.html
+$dokka.location:tools.aqua.bgw.visual/ImageVisual/ImageVisual/#java.io.File#kotlin.Int#kotlin.Int#kotlin.Int#kotlin.Int/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-image-visual/-image-visual.html
+$dokka.location:tools.aqua.bgw.visual/ImageVisual/ImageVisual/#kotlin.String#kotlin.Int#kotlin.Int#kotlin.Int#kotlin.Int/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-image-visual/-image-visual.html
 $dokka.location:tools.aqua.bgw.visual/ImageVisual/image/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-image-visual/image.html
 $dokka.location:tools.aqua.bgw.visual/ImageVisual/imageProperty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-image-visual/image-property.html
 $dokka.location:tools.aqua.bgw.visual/SingleLayerVisual///PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-single-layer-visual/index.html
@@ -1425,7 +1417,6 @@ tools.aqua.bgw.elements.gameelements
 tools.aqua.bgw.elements.layoutviews
 tools.aqua.bgw.elements.uielements
 tools.aqua.bgw.event
-tools.aqua.bgw.exception
 tools.aqua.bgw.observable
 tools.aqua.bgw.util
 tools.aqua.bgw.visual
