@@ -602,6 +602,9 @@ $dokka.location:tools.aqua.bgw.elements.uielements/TableView/items/#/PointingToD
 $dokka.location:tools.aqua.bgw.elements.uielements/TextArea///PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-text-area/index.html
 $dokka.location:tools.aqua.bgw.elements.uielements/TextArea/TextArea/#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.String#tools.aqua.bgw.util.Font#kotlin.String/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-text-area/-text-area.html
 $dokka.location:tools.aqua.bgw.elements.uielements/TextArea/prompt/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-text-area/prompt.html
+$dokka.location:tools.aqua.bgw.elements.uielements/TextField///PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-text-field/index.html
+$dokka.location:tools.aqua.bgw.elements.uielements/TextField/TextField/#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.String#tools.aqua.bgw.util.Font#kotlin.String/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-text-field/-text-field.html
+$dokka.location:tools.aqua.bgw.elements.uielements/TextField/prompt/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-text-field/prompt.html
 $dokka.location:tools.aqua.bgw.elements.uielements/ToggleButton///PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-toggle-button/index.html
 $dokka.location:tools.aqua.bgw.elements.uielements/ToggleButton/ToggleButton/#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.Boolean#tools.aqua.bgw.elements.uielements.ToggleGroup?/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-toggle-button/-toggle-button.html
 $dokka.location:tools.aqua.bgw.elements.uielements/ToggleButton/isSelected/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-toggle-button/is-selected.html
