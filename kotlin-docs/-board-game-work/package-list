@@ -1397,6 +1397,8 @@ $dokka.location:tools.aqua.bgw.visual/ImageVisual/copy/#/PointingToDeclaration/
 $dokka.location:tools.aqua.bgw.visual/ImageVisual/image/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-image-visual/image.html
 $dokka.location:tools.aqua.bgw.visual/ImageVisual/imageProperty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-image-visual/image-property.html
 $dokka.location:tools.aqua.bgw.visual/SingleLayerVisual///PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-single-layer-visual/index.html
+$dokka.location:tools.aqua.bgw.visual/SingleLayerVisual/transparency/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-single-layer-visual/transparency.html
+$dokka.location:tools.aqua.bgw.visual/SingleLayerVisual/transparencyProperty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-single-layer-visual/transparency-property.html
 $dokka.location:tools.aqua.bgw.visual/TextVisual///PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-text-visual/index.html
 $dokka.location:tools.aqua.bgw.visual/TextVisual/TextVisual/#kotlin.String#tools.aqua.bgw.util.Font/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-text-visual/-text-visual.html
 $dokka.location:tools.aqua.bgw.visual/TextVisual/copy/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-text-visual/copy.html
@@ -1408,8 +1410,6 @@ $dokka.location:tools.aqua.bgw.visual/Visual.Companion///PointingToDeclaration/
 $dokka.location:tools.aqua.bgw.visual/Visual.Companion/EMPTY/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-visual/-companion/-e-m-p-t-y.html
 $dokka.location:tools.aqua.bgw.visual/Visual///PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-visual/index.html
 $dokka.location:tools.aqua.bgw.visual/Visual/copy/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-visual/copy.html
-$dokka.location:tools.aqua.bgw.visual/Visual/transparency/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-visual/transparency.html
-$dokka.location:tools.aqua.bgw.visual/Visual/transparencyProperty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-visual/transparency-property.html
 dsl
 examples.main
 examples.maumau.controller
