@@ -275,6 +275,7 @@ $dokka.location:tools.aqua.bgw.core/Alignment/verticalAlignment/#/PointingToDecl
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication///PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/index.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/BoardGameApplication/#kotlin.String/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/-board-game-application.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/background/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/background.html
+$dokka.location:tools.aqua.bgw.core/BoardGameApplication/exit/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/exit.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/hideMenuScene/#kotlin.Number/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/hide-menu-scene.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/repaint/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/repaint.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/setHorizontalSceneAlignment/#tools.aqua.bgw.core.HorizontalAlignment/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/set-horizontal-scene-alignment.html
@@ -301,6 +302,8 @@ $dokka.location:tools.aqua.bgw.core/HorizontalAlignment.RIGHT///PointingToDeclar
 $dokka.location:tools.aqua.bgw.core/HorizontalAlignment.RIGHT/name/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-horizontal-alignment/-r-i-g-h-t/name.html
 $dokka.location:tools.aqua.bgw.core/HorizontalAlignment.RIGHT/ordinal/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-horizontal-alignment/-r-i-g-h-t/ordinal.html
 $dokka.location:tools.aqua.bgw.core/HorizontalAlignment///PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-horizontal-alignment/index.html
+$dokka.location:tools.aqua.bgw.core/MenuScene.Companion///PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-menu-scene/-companion/index.html
+$dokka.location:tools.aqua.bgw.core/MenuScene.Companion/DEFAULT_MENU_SCENE_OPACITY/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-menu-scene/-companion/-d-e-f-a-u-l-t_-m-e-n-u_-s-c-e-n-e_-o-p-a-c-i-t-y.html
 $dokka.location:tools.aqua.bgw.core/MenuScene///PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-menu-scene/index.html
 $dokka.location:tools.aqua.bgw.core/MenuScene/MenuScene/#kotlin.Number#kotlin.Number/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-menu-scene/-menu-scene.html
 $dokka.location:tools.aqua.bgw.core/ScaleMode.FULL///PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-scale-mode/-f-u-l-l/index.html
@@ -483,13 +486,14 @@ $dokka.location:tools.aqua.bgw.elements.gameelements/CardView/frontVisual/#/Poin
 $dokka.location:tools.aqua.bgw.elements.gameelements/CardView/showBack/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.gameelements/-card-view/show-back.html
 $dokka.location:tools.aqua.bgw.elements.gameelements/CardView/showCardSide/#tools.aqua.bgw.elements.gameelements.CardView.CardSide/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.gameelements/-card-view/show-card-side.html
 $dokka.location:tools.aqua.bgw.elements.gameelements/CardView/showFront/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.gameelements/-card-view/show-front.html
+$dokka.location:tools.aqua.bgw.elements.gameelements/CardView/toString/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.gameelements/-card-view/to-string.html
 $dokka.location:tools.aqua.bgw.elements.gameelements/DiceView.Companion///PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.gameelements/-dice-view/-companion/index.html
 $dokka.location:tools.aqua.bgw.elements.gameelements/DiceView.Companion/DICE_HEIGHT/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.gameelements/-dice-view/-companion/-d-i-c-e_-h-e-i-g-h-t.html
 $dokka.location:tools.aqua.bgw.elements.gameelements/DiceView.Companion/DICE_WIDTH/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.gameelements/-dice-view/-companion/-d-i-c-e_-w-i-d-t-h.html
 $dokka.location:tools.aqua.bgw.elements.gameelements/DiceView///PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.gameelements/-dice-view/index.html
 $dokka.location:tools.aqua.bgw.elements.gameelements/DiceView/DiceView/#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.collections.MutableList[tools.aqua.bgw.visual.Visual]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.gameelements/-dice-view/-dice-view.html
 $dokka.location:tools.aqua.bgw.elements.gameelements/DiceView/currentSide/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.gameelements/-dice-view/current-side.html
-$dokka.location:tools.aqua.bgw.elements.gameelements/DiceView/visuals/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.gameelements/-dice-view/visuals.html
+$dokka.location:tools.aqua.bgw.elements.gameelements/DiceView/setVisuals/#kotlin.collections.List[tools.aqua.bgw.visual.Visual]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.gameelements/-dice-view/set-visuals.html
 $dokka.location:tools.aqua.bgw.elements.gameelements/GameElementView///PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.gameelements/-game-element-view/index.html
 $dokka.location:tools.aqua.bgw.elements.gameelements/TokenView.Companion///PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.gameelements/-token-view/-companion/index.html
 $dokka.location:tools.aqua.bgw.elements.gameelements/TokenView.Companion/DEFAULT_TOKEN_HEIGHT/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.gameelements/-token-view/-companion/-d-e-f-a-u-l-t_-t-o-k-e-n_-h-e-i-g-h-t.html
@@ -661,7 +665,6 @@ $dokka.location:tools.aqua.bgw.elements/ElementView/removeFromParent/#/PointingT
 $dokka.location:tools.aqua.bgw.elements/ElementView/rotation/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-element-view/rotation.html
 $dokka.location:tools.aqua.bgw.elements/ElementView/rotationProperty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-element-view/rotation-property.html
 $dokka.location:tools.aqua.bgw.elements/ElementView/visual/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-element-view/visual.html
-$dokka.location:tools.aqua.bgw.elements/ElementView/visualProperty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-element-view/visual-property.html
 $dokka.location:tools.aqua.bgw.elements/ElementView/width/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-element-view/width.html
 $dokka.location:tools.aqua.bgw.elements/ElementView/widthProperty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-element-view/width-property.html
 $dokka.location:tools.aqua.bgw.elements/StaticView///PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-static-view/index.html
@@ -1378,20 +1381,25 @@ $dokka.location:tools.aqua.bgw.visual/ColorVisual/ColorVisual/#java.awt.Color/Po
 $dokka.location:tools.aqua.bgw.visual/ColorVisual/ColorVisual/#kotlin.Int#kotlin.Int#kotlin.Int#kotlin.Int/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-color-visual/-color-visual.html
 $dokka.location:tools.aqua.bgw.visual/ColorVisual/color/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-color-visual/color.html
 $dokka.location:tools.aqua.bgw.visual/ColorVisual/colorProperty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-color-visual/color-property.html
+$dokka.location:tools.aqua.bgw.visual/ColorVisual/copy/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-color-visual/copy.html
 $dokka.location:tools.aqua.bgw.visual/CompoundVisual///PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-compound-visual/index.html
 $dokka.location:tools.aqua.bgw.visual/CompoundVisual/CompoundVisual/#kotlin.Array[tools.aqua.bgw.visual.SingleLayerVisual]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-compound-visual/-compound-visual.html
+$dokka.location:tools.aqua.bgw.visual/CompoundVisual/CompoundVisual/#kotlin.collections.List[tools.aqua.bgw.visual.SingleLayerVisual]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-compound-visual/-compound-visual.html
 $dokka.location:tools.aqua.bgw.visual/CompoundVisual/children/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-compound-visual/children.html
 $dokka.location:tools.aqua.bgw.visual/CompoundVisual/childrenProperty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-compound-visual/children-property.html
+$dokka.location:tools.aqua.bgw.visual/CompoundVisual/copy/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-compound-visual/copy.html
 $dokka.location:tools.aqua.bgw.visual/ImageVisual.Companion///PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-image-visual/-companion/index.html
 $dokka.location:tools.aqua.bgw.visual/ImageVisual///PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-image-visual/index.html
 $dokka.location:tools.aqua.bgw.visual/ImageVisual/ImageVisual/#java.awt.image.BufferedImage#kotlin.Int#kotlin.Int#kotlin.Int#kotlin.Int/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-image-visual/-image-visual.html
 $dokka.location:tools.aqua.bgw.visual/ImageVisual/ImageVisual/#java.io.File#kotlin.Int#kotlin.Int#kotlin.Int#kotlin.Int/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-image-visual/-image-visual.html
 $dokka.location:tools.aqua.bgw.visual/ImageVisual/ImageVisual/#kotlin.String#kotlin.Int#kotlin.Int#kotlin.Int#kotlin.Int/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-image-visual/-image-visual.html
+$dokka.location:tools.aqua.bgw.visual/ImageVisual/copy/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-image-visual/copy.html
 $dokka.location:tools.aqua.bgw.visual/ImageVisual/image/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-image-visual/image.html
 $dokka.location:tools.aqua.bgw.visual/ImageVisual/imageProperty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-image-visual/image-property.html
 $dokka.location:tools.aqua.bgw.visual/SingleLayerVisual///PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-single-layer-visual/index.html
 $dokka.location:tools.aqua.bgw.visual/TextVisual///PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-text-visual/index.html
 $dokka.location:tools.aqua.bgw.visual/TextVisual/TextVisual/#kotlin.String#tools.aqua.bgw.util.Font/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-text-visual/-text-visual.html
+$dokka.location:tools.aqua.bgw.visual/TextVisual/copy/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-text-visual/copy.html
 $dokka.location:tools.aqua.bgw.visual/TextVisual/font/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-text-visual/font.html
 $dokka.location:tools.aqua.bgw.visual/TextVisual/fontProperty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-text-visual/font-property.html
 $dokka.location:tools.aqua.bgw.visual/TextVisual/text/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-text-visual/text.html
@@ -1399,6 +1407,7 @@ $dokka.location:tools.aqua.bgw.visual/TextVisual/textProperty/#/PointingToDeclar
 $dokka.location:tools.aqua.bgw.visual/Visual.Companion///PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-visual/-companion/index.html
 $dokka.location:tools.aqua.bgw.visual/Visual.Companion/EMPTY/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-visual/-companion/-e-m-p-t-y.html
 $dokka.location:tools.aqua.bgw.visual/Visual///PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-visual/index.html
+$dokka.location:tools.aqua.bgw.visual/Visual/copy/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-visual/copy.html
 $dokka.location:tools.aqua.bgw.visual/Visual/transparency/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-visual/transparency.html
 $dokka.location:tools.aqua.bgw.visual/Visual/transparencyProperty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-visual/transparency-property.html
 dsl
