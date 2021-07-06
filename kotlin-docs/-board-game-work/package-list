@@ -28,6 +28,7 @@ $dokka.location:examples.main//CARDS_FILE/#/PointingToDeclaration/-board-game-w
 $dokka.location:examples.main//DICE_FILE/#/PointingToDeclaration/-board-game-work/examples.main/-d-i-c-e_-f-i-l-e.html
 $dokka.location:examples.main//IMG_HEIGHT/#/PointingToDeclaration/-board-game-work/examples.main/-i-m-g_-h-e-i-g-h-t.html
 $dokka.location:examples.main//IMG_WIDTH/#/PointingToDeclaration/-board-game-work/examples.main/-i-m-g_-w-i-d-t-h.html
+$dokka.location:examples.main//LIGHT_BULB_FILE/#/PointingToDeclaration/-board-game-work/examples.main/-l-i-g-h-t_-b-u-l-b_-f-i-l-e.html
 $dokka.location:examples.main//main/#/PointingToDeclaration/-board-game-work/examples.main/main.html
 $dokka.location:examples.maumau.controller////PointingToDeclaration/-board-game-work/examples.maumau.controller/index.html
 $dokka.location:examples.maumau.controller/LogicController///PointingToDeclaration/-board-game-work/examples.maumau.controller/-logic-controller/index.html
@@ -38,6 +39,7 @@ $dokka.location:examples.maumau.controller/LogicController/game/#/PointingToDecl
 $dokka.location:examples.maumau.controller/LogicController/newGame/#/PointingToDeclaration/-board-game-work/examples.maumau.controller/-logic-controller/new-game.html
 $dokka.location:examples.maumau.controller/LogicController/playCard/#examples.maumau.model.MauMauCard#kotlin.Boolean/PointingToDeclaration/-board-game-work/examples.maumau.controller/-logic-controller/play-card.html
 $dokka.location:examples.maumau.controller/LogicController/selectSuit/#examples.maumau.model.CardSuit/PointingToDeclaration/-board-game-work/examples.maumau.controller/-logic-controller/select-suit.html
+$dokka.location:examples.maumau.controller/LogicController/showHint/#/PointingToDeclaration/-board-game-work/examples.maumau.controller/-logic-controller/show-hint.html
 $dokka.location:examples.maumau.controller/LogicController/view/#/PointingToDeclaration/-board-game-work/examples.maumau.controller/-logic-controller/view.html
 $dokka.location:examples.maumau.model////PointingToDeclaration/-board-game-work/examples.maumau.model/index.html
 $dokka.location:examples.maumau.model/CardSuit.CLUBS///PointingToDeclaration/-board-game-work/examples.maumau.model/-card-suit/-c-l-u-b-s/index.html
@@ -145,6 +147,7 @@ $dokka.location:examples.maumau.view/GameScene/drawStackInfo/#/PointingToDeclara
 $dokka.location:examples.maumau.view/GameScene/drawStackView/#/PointingToDeclaration/-board-game-work/examples.maumau.view/-game-scene/draw-stack-view.html
 $dokka.location:examples.maumau.view/GameScene/gameStackInfo/#/PointingToDeclaration/-board-game-work/examples.maumau.view/-game-scene/game-stack-info.html
 $dokka.location:examples.maumau.view/GameScene/gameStackView/#/PointingToDeclaration/-board-game-work/examples.maumau.view/-game-scene/game-stack-view.html
+$dokka.location:examples.maumau.view/GameScene/hintButton/#/PointingToDeclaration/-board-game-work/examples.maumau.view/-game-scene/hint-button.html
 $dokka.location:examples.maumau.view/GameScene/mainMenuButton/#/PointingToDeclaration/-board-game-work/examples.maumau.view/-game-scene/main-menu-button.html
 $dokka.location:examples.maumau.view/GameScene/otherPlayerHand/#/PointingToDeclaration/-board-game-work/examples.maumau.view/-game-scene/other-player-hand.html
 $dokka.location:examples.maumau.view/MauMauMenuScene///PointingToDeclaration/-board-game-work/examples.maumau.view/-mau-mau-menu-scene/index.html
@@ -159,6 +162,8 @@ $dokka.location:examples.maumau.view/RefreshViewController/refreshAll/#/Pointing
 $dokka.location:examples.maumau.view/RefreshViewController/refreshCardDrawn/#examples.maumau.model.MauMauPlayer#examples.maumau.model.MauMauCard/PointingToDeclaration/-board-game-work/examples.maumau.view/-refresh-view-controller/refresh-card-drawn.html
 $dokka.location:examples.maumau.view/RefreshViewController/refreshCardPlayed/#examples.maumau.model.MauMauCard#kotlin.Boolean/PointingToDeclaration/-board-game-work/examples.maumau.view/-refresh-view-controller/refresh-card-played.html
 $dokka.location:examples.maumau.view/RefreshViewController/refreshGameStackShuffledBack/#/PointingToDeclaration/-board-game-work/examples.maumau.view/-refresh-view-controller/refresh-game-stack-shuffled-back.html
+$dokka.location:examples.maumau.view/RefreshViewController/refreshHintPlayCard/#examples.maumau.model.MauMauCard/PointingToDeclaration/-board-game-work/examples.maumau.view/-refresh-view-controller/refresh-hint-play-card.html
+$dokka.location:examples.maumau.view/RefreshViewController/refreshHintTakeCard/#/PointingToDeclaration/-board-game-work/examples.maumau.view/-refresh-view-controller/refresh-hint-take-card.html
 $dokka.location:examples.maumau.view/RefreshViewController/refreshPlayAgain/#/PointingToDeclaration/-board-game-work/examples.maumau.view/-refresh-view-controller/refresh-play-again.html
 $dokka.location:examples.maumau.view/RefreshViewController/refreshSuitSelected/#/PointingToDeclaration/-board-game-work/examples.maumau.view/-refresh-view-controller/refresh-suit-selected.html
 $dokka.location:examples.maumau.view/RefreshViewController/showJackEffectSelection/#/PointingToDeclaration/-board-game-work/examples.maumau.view/-refresh-view-controller/show-jack-effect-selection.html
@@ -169,6 +174,8 @@ $dokka.location:examples.maumau.view/Refreshable/refreshCardDrawn/#examples.maum
 $dokka.location:examples.maumau.view/Refreshable/refreshCardPlayed/#examples.maumau.model.MauMauCard#kotlin.Boolean/PointingToDeclaration/-board-game-work/examples.maumau.view/-refreshable/refresh-card-played.html
 $dokka.location:examples.maumau.view/Refreshable/refreshCardsDrawn/#examples.maumau.model.MauMauPlayer#kotlin.collections.Collection[examples.maumau.model.MauMauCard]/PointingToDeclaration/-board-game-work/examples.maumau.view/-refreshable/refresh-cards-drawn.html
 $dokka.location:examples.maumau.view/Refreshable/refreshGameStackShuffledBack/#/PointingToDeclaration/-board-game-work/examples.maumau.view/-refreshable/refresh-game-stack-shuffled-back.html
+$dokka.location:examples.maumau.view/Refreshable/refreshHintPlayCard/#examples.maumau.model.MauMauCard/PointingToDeclaration/-board-game-work/examples.maumau.view/-refreshable/refresh-hint-play-card.html
+$dokka.location:examples.maumau.view/Refreshable/refreshHintTakeCard/#/PointingToDeclaration/-board-game-work/examples.maumau.view/-refreshable/refresh-hint-take-card.html
 $dokka.location:examples.maumau.view/Refreshable/refreshPlayAgain/#/PointingToDeclaration/-board-game-work/examples.maumau.view/-refreshable/refresh-play-again.html
 $dokka.location:examples.maumau.view/Refreshable/refreshSuitSelected/#/PointingToDeclaration/-board-game-work/examples.maumau.view/-refreshable/refresh-suit-selected.html
 $dokka.location:examples.maumau.view/Refreshable/showJackEffectSelection/#/PointingToDeclaration/-board-game-work/examples.maumau.view/-refreshable/show-jack-effect-selection.html
