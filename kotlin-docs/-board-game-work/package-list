@@ -224,6 +224,9 @@ $dokka.location:tools.aqua.bgw.animation/RotationAnimation/RotationAnimation/#Ty
 $dokka.location:tools.aqua.bgw.animation/RotationAnimation/fromAngle/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.animation/-rotation-animation/from-angle.html
 $dokka.location:tools.aqua.bgw.animation/RotationAnimation/toAngle/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.animation/-rotation-animation/to-angle.html
 $dokka.location:tools.aqua.bgw.builder////PointingToDeclaration/-board-game-work/tools.aqua.bgw.builder/index.html
+$dokka.location:tools.aqua.bgw.builder/DialogBuilder.Companion///PointingToDeclaration/-board-game-work/tools.aqua.bgw.builder/-dialog-builder/-companion/index.html
+$dokka.location:tools.aqua.bgw.builder/DialogBuilder///PointingToDeclaration/-board-game-work/tools.aqua.bgw.builder/-dialog-builder/index.html
+$dokka.location:tools.aqua.bgw.builder/DialogBuilder/DialogBuilder/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.builder/-dialog-builder/-dialog-builder.html
 $dokka.location:tools.aqua.bgw.builder/DragDropHelper.Companion///PointingToDeclaration/-board-game-work/tools.aqua.bgw.builder/-drag-drop-helper/-companion/index.html
 $dokka.location:tools.aqua.bgw.builder/DragDropHelper///PointingToDeclaration/-board-game-work/tools.aqua.bgw.builder/-drag-drop-helper/index.html
 $dokka.location:tools.aqua.bgw.builder/DragDropHelper/DragDropHelper/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.builder/-drag-drop-helper/-drag-drop-helper.html
@@ -289,7 +292,7 @@ $dokka.location:tools.aqua.bgw.core/BoardGameApplication/setScaleMode/#tools.aqu
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/setSceneAlignment/#tools.aqua.bgw.core.Alignment/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/set-scene-alignment.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/setVerticalSceneAlignment/#tools.aqua.bgw.core.VerticalAlignment/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/set-vertical-scene-alignment.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/show/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/show.html
-$dokka.location:tools.aqua.bgw.core/BoardGameApplication/showAlertDialog/#tools.aqua.bgw.dialog.AlertType#kotlin.String#kotlin.Array[tools.aqua.bgw.dialog.ButtonType]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/show-alert-dialog.html
+$dokka.location:tools.aqua.bgw.core/BoardGameApplication/showDialog/#tools.aqua.bgw.dialog.Dialog/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/show-dialog.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/showFileDialog/#tools.aqua.bgw.dialog.FileDialog/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/show-file-dialog.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/showGameScene/#tools.aqua.bgw.core.BoardGameScene/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/show-game-scene.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/showMenuScene/#tools.aqua.bgw.core.MenuScene#kotlin.Number/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/show-menu-scene.html
@@ -354,6 +357,9 @@ $dokka.location:tools.aqua.bgw.dialog/AlertType.CONFIRMATION/ordinal/#/PointingT
 $dokka.location:tools.aqua.bgw.dialog/AlertType.ERROR///PointingToDeclaration/-board-game-work/tools.aqua.bgw.dialog/-alert-type/-e-r-r-o-r/index.html
 $dokka.location:tools.aqua.bgw.dialog/AlertType.ERROR/name/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.dialog/-alert-type/-e-r-r-o-r/name.html
 $dokka.location:tools.aqua.bgw.dialog/AlertType.ERROR/ordinal/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.dialog/-alert-type/-e-r-r-o-r/ordinal.html
+$dokka.location:tools.aqua.bgw.dialog/AlertType.EXCEPTION///PointingToDeclaration/-board-game-work/tools.aqua.bgw.dialog/-alert-type/-e-x-c-e-p-t-i-o-n/index.html
+$dokka.location:tools.aqua.bgw.dialog/AlertType.EXCEPTION/name/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.dialog/-alert-type/-e-x-c-e-p-t-i-o-n/name.html
+$dokka.location:tools.aqua.bgw.dialog/AlertType.EXCEPTION/ordinal/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.dialog/-alert-type/-e-x-c-e-p-t-i-o-n/ordinal.html
 $dokka.location:tools.aqua.bgw.dialog/AlertType.INFORMATION///PointingToDeclaration/-board-game-work/tools.aqua.bgw.dialog/-alert-type/-i-n-f-o-r-m-a-t-i-o-n/index.html
 $dokka.location:tools.aqua.bgw.dialog/AlertType.INFORMATION/name/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.dialog/-alert-type/-i-n-f-o-r-m-a-t-i-o-n/name.html
 $dokka.location:tools.aqua.bgw.dialog/AlertType.INFORMATION/ordinal/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.dialog/-alert-type/-i-n-f-o-r-m-a-t-i-o-n/ordinal.html
@@ -392,6 +398,16 @@ $dokka.location:tools.aqua.bgw.dialog/ButtonType.YES///PointingToDeclaration/-b
 $dokka.location:tools.aqua.bgw.dialog/ButtonType.YES/name/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.dialog/-button-type/-y-e-s/name.html
 $dokka.location:tools.aqua.bgw.dialog/ButtonType.YES/ordinal/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.dialog/-button-type/-y-e-s/ordinal.html
 $dokka.location:tools.aqua.bgw.dialog/ButtonType///PointingToDeclaration/-board-game-work/tools.aqua.bgw.dialog/-button-type/index.html
+$dokka.location:tools.aqua.bgw.dialog/Dialog///PointingToDeclaration/-board-game-work/tools.aqua.bgw.dialog/-dialog/index.html
+$dokka.location:tools.aqua.bgw.dialog/Dialog/Dialog/#kotlin.String#kotlin.String#kotlin.String#kotlin.Throwable/PointingToDeclaration/-board-game-work/tools.aqua.bgw.dialog/-dialog/-dialog.html
+$dokka.location:tools.aqua.bgw.dialog/Dialog/Dialog/#tools.aqua.bgw.dialog.AlertType#kotlin.String#kotlin.String#kotlin.String#kotlin.Array[tools.aqua.bgw.dialog.ButtonType]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.dialog/-dialog/-dialog.html
+$dokka.location:tools.aqua.bgw.dialog/Dialog/Dialog/#tools.aqua.bgw.dialog.AlertType#kotlin.String#kotlin.String#kotlin.String#kotlin.Throwable?#kotlin.Array[tools.aqua.bgw.dialog.ButtonType]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.dialog/-dialog/-dialog.html
+$dokka.location:tools.aqua.bgw.dialog/Dialog/alertType/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.dialog/-dialog/alert-type.html
+$dokka.location:tools.aqua.bgw.dialog/Dialog/buttons/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.dialog/-dialog/buttons.html
+$dokka.location:tools.aqua.bgw.dialog/Dialog/exception/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.dialog/-dialog/exception.html
+$dokka.location:tools.aqua.bgw.dialog/Dialog/header/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.dialog/-dialog/header.html
+$dokka.location:tools.aqua.bgw.dialog/Dialog/message/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.dialog/-dialog/message.html
+$dokka.location:tools.aqua.bgw.dialog/Dialog/title/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.dialog/-dialog/title.html
 $dokka.location:tools.aqua.bgw.dialog/ExtensionFilter///PointingToDeclaration/-board-game-work/tools.aqua.bgw.dialog/-extension-filter/index.html
 $dokka.location:tools.aqua.bgw.dialog/ExtensionFilter/ExtensionFilter/#kotlin.String#kotlin.Array[kotlin.String]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.dialog/-extension-filter/-extension-filter.html
 $dokka.location:tools.aqua.bgw.dialog/ExtensionFilter/description/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.dialog/-extension-filter/description.html
