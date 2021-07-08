@@ -281,11 +281,14 @@ $dokka.location:tools.aqua.bgw.core/Alignment.TOP_RIGHT/verticalAlignment/#/Poin
 $dokka.location:tools.aqua.bgw.core/Alignment///PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-alignment/index.html
 $dokka.location:tools.aqua.bgw.core/Alignment/horizontalAlignment/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-alignment/horizontal-alignment.html
 $dokka.location:tools.aqua.bgw.core/Alignment/verticalAlignment/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-alignment/vertical-alignment.html
+$dokka.location:tools.aqua.bgw.core/BoardGameApplication.Companion///PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/-companion/index.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication///PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/index.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/BoardGameApplication/#kotlin.String/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/-board-game-application.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/background/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/background.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/exit/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/exit.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/hideMenuScene/#kotlin.Number/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/hide-menu-scene.html
+$dokka.location:tools.aqua.bgw.core/BoardGameApplication/onWindowClosed/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/on-window-closed.html
+$dokka.location:tools.aqua.bgw.core/BoardGameApplication/onWindowShown/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/on-window-shown.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/repaint/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/repaint.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/setHorizontalSceneAlignment/#tools.aqua.bgw.core.HorizontalAlignment/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/set-horizontal-scene-alignment.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/setScaleMode/#tools.aqua.bgw.core.ScaleMode/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-board-game-application/set-scale-mode.html
