@@ -1462,9 +1462,15 @@ $dokka.location:tools.aqua.bgw.visual/SingleLayerVisual/transparency/#/PointingT
 $dokka.location:tools.aqua.bgw.visual/SingleLayerVisual/transparencyProperty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-single-layer-visual/transparency-property.html
 $dokka.location:tools.aqua.bgw.visual/TextVisual///PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-text-visual/index.html
 $dokka.location:tools.aqua.bgw.visual/TextVisual/TextVisual/#kotlin.String#tools.aqua.bgw.util.Font/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-text-visual/-text-visual.html
+$dokka.location:tools.aqua.bgw.visual/TextVisual/alignment/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-text-visual/alignment.html
+$dokka.location:tools.aqua.bgw.visual/TextVisual/alignmentProperty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-text-visual/alignment-property.html
 $dokka.location:tools.aqua.bgw.visual/TextVisual/copy/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-text-visual/copy.html
 $dokka.location:tools.aqua.bgw.visual/TextVisual/font/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-text-visual/font.html
 $dokka.location:tools.aqua.bgw.visual/TextVisual/fontProperty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-text-visual/font-property.html
+$dokka.location:tools.aqua.bgw.visual/TextVisual/offsetX/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-text-visual/offset-x.html
+$dokka.location:tools.aqua.bgw.visual/TextVisual/offsetXProperty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-text-visual/offset-x-property.html
+$dokka.location:tools.aqua.bgw.visual/TextVisual/offsetY/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-text-visual/offset-y.html
+$dokka.location:tools.aqua.bgw.visual/TextVisual/offsetYProperty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-text-visual/offset-y-property.html
 $dokka.location:tools.aqua.bgw.visual/TextVisual/text/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-text-visual/text.html
 $dokka.location:tools.aqua.bgw.visual/TextVisual/textProperty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-text-visual/text-property.html
 $dokka.location:tools.aqua.bgw.visual/Visual.Companion///PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-visual/-companion/index.html
