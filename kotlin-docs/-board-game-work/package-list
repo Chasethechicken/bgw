@@ -1,26 +1,5 @@
 $dokka.format:html-v1
 $dokka.linkExtension:html
-$dokka.location:dsl////PointingToDeclaration/-board-game-work/dsl/index.html
-$dokka.location:dsl//appendData/tools.aqua.bgw.elements.uielements.TableView[TypeParam(bounds=[kotlin.Any?])]#kotlin.collections.List[TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/-board-game-work/dsl/append-data.html
-$dokka.location:dsl//backgroundStyle/tools.aqua.bgw.elements.uielements.UIElementView#kotlin.Function0[kotlin.String]/PointingToDeclaration/-board-game-work/dsl/background-style.html
-$dokka.location:dsl//button/tools.aqua.bgw.core.MenuScene#kotlin.Function1[tools.aqua.bgw.elements.uielements.Button,kotlin.Unit]/PointingToDeclaration/-board-game-work/dsl/button.html
-$dokka.location:dsl//checkBox/tools.aqua.bgw.core.MenuScene#kotlin.Function1[tools.aqua.bgw.elements.uielements.CheckBox,kotlin.Unit]/PointingToDeclaration/-board-game-work/dsl/check-box.html
-$dokka.location:dsl//column/tools.aqua.bgw.elements.uielements.TableView[TypeParam(bounds=[kotlin.Any?])]#kotlin.String#kotlin.Number#kotlin.Function1[TypeParam(bounds=[kotlin.Any?]),kotlin.String]/PointingToDeclaration/-board-game-work/dsl/column.html
-$dokka.location:dsl//componentStyle/tools.aqua.bgw.elements.uielements.UIElementView#kotlin.Function0[kotlin.String]/PointingToDeclaration/-board-game-work/dsl/component-style.html
-$dokka.location:dsl//data/tools.aqua.bgw.elements.uielements.TableView[TypeParam(bounds=[kotlin.Any?])]#kotlin.collections.List[TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/-board-game-work/dsl/data.html
-$dokka.location:dsl//dimensions/tools.aqua.bgw.elements.uielements.UIElementView#kotlin.Number#kotlin.Number/PointingToDeclaration/-board-game-work/dsl/dimensions.html
-$dokka.location:dsl//grid/tools.aqua.bgw.core.MenuScene#kotlin.Int#kotlin.Int#kotlin.Function1[tools.aqua.bgw.elements.layoutviews.GridLayoutView[TypeParam(bounds=[tools.aqua.bgw.elements.StaticView[^]])],kotlin.Unit]/PointingToDeclaration/-board-game-work/dsl/grid.html
-$dokka.location:dsl//label/tools.aqua.bgw.core.MenuScene#kotlin.Function1[tools.aqua.bgw.elements.uielements.Label,kotlin.Unit]/PointingToDeclaration/-board-game-work/dsl/label.html
-$dokka.location:dsl//listView/tools.aqua.bgw.core.MenuScene#kotlin.Function1[tools.aqua.bgw.elements.uielements.ListView[TypeParam(bounds=[kotlin.Any?])],kotlin.Unit]/PointingToDeclaration/-board-game-work/dsl/list-view.html
-$dokka.location:dsl//menuScene/#kotlin.Number#kotlin.Number#kotlin.Function1[tools.aqua.bgw.core.MenuScene,kotlin.Unit]/PointingToDeclaration/-board-game-work/dsl/menu-scene.html
-$dokka.location:dsl//position/tools.aqua.bgw.elements.uielements.UIElementView#kotlin.Number#kotlin.Number/PointingToDeclaration/-board-game-work/dsl/position.html
-$dokka.location:dsl//radioButton/dsl.ToggleGroupBuilder#kotlin.Function1[tools.aqua.bgw.elements.uielements.RadioButton,kotlin.Unit]/PointingToDeclaration/-board-game-work/dsl/radio-button.html
-$dokka.location:dsl//tableView/tools.aqua.bgw.core.MenuScene#kotlin.Function1[tools.aqua.bgw.elements.uielements.TableView[TypeParam(bounds=[kotlin.Any?])],kotlin.Unit]/PointingToDeclaration/-board-game-work/dsl/table-view.html
-$dokka.location:dsl//textArea/tools.aqua.bgw.core.MenuScene#kotlin.String#kotlin.Function1[tools.aqua.bgw.elements.uielements.TextArea,kotlin.Unit]/PointingToDeclaration/-board-game-work/dsl/text-area.html
-$dokka.location:dsl//toggleButton/dsl.ToggleGroupBuilder#kotlin.Function1[tools.aqua.bgw.elements.uielements.ToggleButton,kotlin.Unit]/PointingToDeclaration/-board-game-work/dsl/toggle-button.html
-$dokka.location:dsl//toggleGroup/tools.aqua.bgw.core.MenuScene#kotlin.Function1[dsl.ToggleGroupBuilder,kotlin.Unit]/PointingToDeclaration/-board-game-work/dsl/toggle-group.html
-$dokka.location:dsl/ToggleGroupBuilder///PointingToDeclaration/-board-game-work/dsl/-toggle-group-builder/index.html
-$dokka.location:dsl/ToggleGroupBuilder/ToggleGroupBuilder/#/PointingToDeclaration/-board-game-work/dsl/-toggle-group-builder/-toggle-group-builder.html
 $dokka.location:examples.main////PointingToDeclaration/-board-game-work/examples.main/index.html
 $dokka.location:examples.main//BG_FILE/#/PointingToDeclaration/-board-game-work/examples.main/-b-g_-f-i-l-e.html
 $dokka.location:examples.main//BUTTON_BG_FILE/#/PointingToDeclaration/-board-game-work/examples.main/-b-u-t-t-o-n_-b-g_-f-i-l-e.html
@@ -678,13 +657,34 @@ $dokka.location:tools.aqua.bgw.elements.uielements/UIElementView/componentStyleP
 $dokka.location:tools.aqua.bgw.elements.uielements/UIElementView/font/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-u-i-element-view/font.html
 $dokka.location:tools.aqua.bgw.elements.uielements/UIElementView/fontProperty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements.uielements/-u-i-element-view/font-property.html
 $dokka.location:tools.aqua.bgw.elements////PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/index.html
+$dokka.location:tools.aqua.bgw.elements//appendData/tools.aqua.bgw.elements.uielements.TableView[TypeParam(bounds=[kotlin.Any?])]#kotlin.collections.List[TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/append-data.html
+$dokka.location:tools.aqua.bgw.elements//backgroundStyle/tools.aqua.bgw.elements.uielements.UIElementView#kotlin.Function0[kotlin.String]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/background-style.html
+$dokka.location:tools.aqua.bgw.elements//button/tools.aqua.bgw.core.MenuScene#kotlin.Function1[tools.aqua.bgw.elements.uielements.Button,kotlin.Unit]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/button.html
+$dokka.location:tools.aqua.bgw.elements//checkBox/tools.aqua.bgw.core.MenuScene#kotlin.Function1[tools.aqua.bgw.elements.uielements.CheckBox,kotlin.Unit]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/check-box.html
+$dokka.location:tools.aqua.bgw.elements//colorPicker/tools.aqua.bgw.core.MenuScene#java.awt.Color#kotlin.Function1[tools.aqua.bgw.elements.uielements.ColorPicker,kotlin.Unit]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/color-picker.html
+$dokka.location:tools.aqua.bgw.elements//column/tools.aqua.bgw.elements.uielements.TableView[TypeParam(bounds=[kotlin.Any?])]#kotlin.String#kotlin.Number#kotlin.Function1[TypeParam(bounds=[kotlin.Any?]),kotlin.String]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/column.html
+$dokka.location:tools.aqua.bgw.elements//comboBox/tools.aqua.bgw.core.MenuScene#kotlin.String#kotlin.Function1[tools.aqua.bgw.elements.uielements.ComboBox[TypeParam(bounds=[kotlin.Any?])],kotlin.Unit]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/combo-box.html
+$dokka.location:tools.aqua.bgw.elements//componentStyle/tools.aqua.bgw.elements.uielements.UIElementView#kotlin.Function0[kotlin.String]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/component-style.html
+$dokka.location:tools.aqua.bgw.elements//data/tools.aqua.bgw.elements.uielements.TableView[TypeParam(bounds=[kotlin.Any?])]#kotlin.collections.List[TypeParam(bounds=[kotlin.Any?])]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/data.html
+$dokka.location:tools.aqua.bgw.elements//grid/tools.aqua.bgw.core.MenuScene#kotlin.Int#kotlin.Int#kotlin.Function1[tools.aqua.bgw.elements.layoutviews.GridLayoutView[TypeParam(bounds=[tools.aqua.bgw.elements.StaticView[^]])],kotlin.Unit]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/grid.html
+$dokka.location:tools.aqua.bgw.elements//label/tools.aqua.bgw.core.MenuScene#kotlin.Function1[tools.aqua.bgw.elements.uielements.Label,kotlin.Unit]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/label.html
+$dokka.location:tools.aqua.bgw.elements//listView/tools.aqua.bgw.core.MenuScene#kotlin.Function1[tools.aqua.bgw.elements.uielements.ListView[TypeParam(bounds=[kotlin.Any?])],kotlin.Unit]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/list-view.html
 $dokka.location:tools.aqua.bgw.elements//offset/tools.aqua.bgw.elements.ElementView#kotlin.Number#kotlin.Number/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/offset.html
+$dokka.location:tools.aqua.bgw.elements//progressBar/tools.aqua.bgw.core.MenuScene#kotlin.Function1[tools.aqua.bgw.elements.uielements.ProgressBar,kotlin.Unit]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/progress-bar.html
+$dokka.location:tools.aqua.bgw.elements//radioButton/tools.aqua.bgw.core.MenuScene#kotlin.Function1[tools.aqua.bgw.elements.uielements.ToggleButton,kotlin.Unit]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/radio-button.html
+$dokka.location:tools.aqua.bgw.elements//radioButton/tools.aqua.bgw.elements.ToggleGroupBuilder#kotlin.Function1[tools.aqua.bgw.elements.uielements.RadioButton,kotlin.Unit]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/radio-button.html
 $dokka.location:tools.aqua.bgw.elements//reposition/tools.aqua.bgw.elements.ElementView#kotlin.Number#kotlin.Number/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/reposition.html
 $dokka.location:tools.aqua.bgw.elements//resize/tools.aqua.bgw.elements.ElementView#kotlin.Number#kotlin.Number/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/resize.html
 $dokka.location:tools.aqua.bgw.elements//rotate/tools.aqua.bgw.elements.ElementView#kotlin.Number/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/rotate.html
 $dokka.location:tools.aqua.bgw.elements//scale/tools.aqua.bgw.elements.ElementView#kotlin.Number/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/scale.html
 $dokka.location:tools.aqua.bgw.elements//scaleHeight/tools.aqua.bgw.elements.ElementView#kotlin.Number/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/scale-height.html
 $dokka.location:tools.aqua.bgw.elements//scaleWidth/tools.aqua.bgw.elements.ElementView#kotlin.Number/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/scale-width.html
+$dokka.location:tools.aqua.bgw.elements//tableView/tools.aqua.bgw.core.MenuScene#kotlin.Function1[tools.aqua.bgw.elements.uielements.TableView[TypeParam(bounds=[kotlin.Any?])],kotlin.Unit]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/table-view.html
+$dokka.location:tools.aqua.bgw.elements//textArea/tools.aqua.bgw.core.MenuScene#kotlin.String#kotlin.Function1[tools.aqua.bgw.elements.uielements.TextArea,kotlin.Unit]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/text-area.html
+$dokka.location:tools.aqua.bgw.elements//textField/tools.aqua.bgw.core.MenuScene#kotlin.String#kotlin.Function1[tools.aqua.bgw.elements.uielements.TextField,kotlin.Unit]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/text-field.html
+$dokka.location:tools.aqua.bgw.elements//toggleButton/tools.aqua.bgw.core.MenuScene#kotlin.Function1[tools.aqua.bgw.elements.uielements.ToggleButton,kotlin.Unit]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/toggle-button.html
+$dokka.location:tools.aqua.bgw.elements//toggleButton/tools.aqua.bgw.elements.ToggleGroupBuilder#kotlin.Function1[tools.aqua.bgw.elements.uielements.ToggleButton,kotlin.Unit]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/toggle-button.html
+$dokka.location:tools.aqua.bgw.elements//toggleGroup/tools.aqua.bgw.core.MenuScene#kotlin.Function1[tools.aqua.bgw.elements.ToggleGroupBuilder,kotlin.Unit]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/toggle-group.html
 $dokka.location:tools.aqua.bgw.elements/DynamicView///PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-dynamic-view/index.html
 $dokka.location:tools.aqua.bgw.elements/DynamicView/DynamicView/#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.Number#tools.aqua.bgw.visual.Visual/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-dynamic-view/-dynamic-view.html
 $dokka.location:tools.aqua.bgw.elements/DynamicView/isDraggable/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-dynamic-view/is-draggable.html
@@ -728,8 +728,14 @@ $dokka.location:tools.aqua.bgw.elements/ElementView/rotationProperty/#/PointingT
 $dokka.location:tools.aqua.bgw.elements/ElementView/visual/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-element-view/visual.html
 $dokka.location:tools.aqua.bgw.elements/ElementView/width/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-element-view/width.html
 $dokka.location:tools.aqua.bgw.elements/ElementView/widthProperty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-element-view/width-property.html
+$dokka.location:tools.aqua.bgw.elements/MenuSceneBuilder.Companion///PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-menu-scene-builder/-companion/index.html
+$dokka.location:tools.aqua.bgw.elements/MenuSceneBuilder.Companion/dsl/#kotlin.Number#kotlin.Number#kotlin.Function1[tools.aqua.bgw.core.MenuScene,kotlin.Unit]/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-menu-scene-builder/-companion/dsl.html
+$dokka.location:tools.aqua.bgw.elements/MenuSceneBuilder///PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-menu-scene-builder/index.html
+$dokka.location:tools.aqua.bgw.elements/MenuSceneBuilder/MenuSceneBuilder/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-menu-scene-builder/-menu-scene-builder.html
 $dokka.location:tools.aqua.bgw.elements/StaticView///PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-static-view/index.html
 $dokka.location:tools.aqua.bgw.elements/StaticView/StaticView/#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.Number#tools.aqua.bgw.visual.Visual/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-static-view/-static-view.html
+$dokka.location:tools.aqua.bgw.elements/ToggleGroupBuilder///PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-toggle-group-builder/index.html
+$dokka.location:tools.aqua.bgw.elements/ToggleGroupBuilder/ToggleGroupBuilder/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-toggle-group-builder/-toggle-group-builder.html
 $dokka.location:tools.aqua.bgw.event////PointingToDeclaration/-board-game-work/tools.aqua.bgw.event/index.html
 $dokka.location:tools.aqua.bgw.event/AnimationFinishedEvent///PointingToDeclaration/-board-game-work/tools.aqua.bgw.event/-animation-finished-event/index.html
 $dokka.location:tools.aqua.bgw.event/AnimationFinishedEvent/AnimationFinishedEvent/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.event/-animation-finished-event/-animation-finished-event.html
@@ -1477,7 +1483,6 @@ $dokka.location:tools.aqua.bgw.visual/Visual.Companion///PointingToDeclaration/
 $dokka.location:tools.aqua.bgw.visual/Visual.Companion/EMPTY/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-visual/-companion/-e-m-p-t-y.html
 $dokka.location:tools.aqua.bgw.visual/Visual///PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-visual/index.html
 $dokka.location:tools.aqua.bgw.visual/Visual/copy/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.visual/-visual/copy.html
-dsl
 examples.main
 examples.maumau.controller
 examples.maumau.model
