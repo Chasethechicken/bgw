@@ -735,6 +735,11 @@ $dokka.location:tools.aqua.bgw.elements/ElementView/posYProperty/#/PointingToDec
 $dokka.location:tools.aqua.bgw.elements/ElementView/removeFromParent/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-element-view/remove-from-parent.html
 $dokka.location:tools.aqua.bgw.elements/ElementView/rotation/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-element-view/rotation.html
 $dokka.location:tools.aqua.bgw.elements/ElementView/rotationProperty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-element-view/rotation-property.html
+$dokka.location:tools.aqua.bgw.elements/ElementView/scale/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-element-view/scale.html
+$dokka.location:tools.aqua.bgw.elements/ElementView/scaleX/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-element-view/scale-x.html
+$dokka.location:tools.aqua.bgw.elements/ElementView/scaleXProperty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-element-view/scale-x-property.html
+$dokka.location:tools.aqua.bgw.elements/ElementView/scaleY/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-element-view/scale-y.html
+$dokka.location:tools.aqua.bgw.elements/ElementView/scaleYProperty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-element-view/scale-y-property.html
 $dokka.location:tools.aqua.bgw.elements/ElementView/visual/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-element-view/visual.html
 $dokka.location:tools.aqua.bgw.elements/ElementView/width/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-element-view/width.html
 $dokka.location:tools.aqua.bgw.elements/ElementView/widthProperty/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.elements/-element-view/width-property.html
