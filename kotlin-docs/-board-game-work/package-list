@@ -162,7 +162,6 @@ $dokka.location:examples.maumau.view/ViewController///PointingToDeclaration/-bo
 $dokka.location:examples.maumau.view/ViewController/ViewController/#/PointingToDeclaration/-board-game-work/examples.maumau.view/-view-controller/-view-controller.html
 $dokka.location:examples.maumau.view/ViewController/cardMap/#/PointingToDeclaration/-board-game-work/examples.maumau.view/-view-controller/card-map.html
 $dokka.location:examples.maumau.view/ViewController/gameScene/#/PointingToDeclaration/-board-game-work/examples.maumau.view/-view-controller/game-scene.html
-$dokka.location:examples.maumau.view/ViewController/i/#/PointingToDeclaration/-board-game-work/examples.maumau.view/-view-controller/i.html
 $dokka.location:examples.maumau.view/ViewController/logicController/#/PointingToDeclaration/-board-game-work/examples.maumau.view/-view-controller/logic-controller.html
 $dokka.location:examples.maumau.view/ViewController/mauMauMenuScene/#/PointingToDeclaration/-board-game-work/examples.maumau.view/-view-controller/mau-mau-menu-scene.html
 $dokka.location:examples.maumau.view/ViewController/refreshViewController/#/PointingToDeclaration/-board-game-work/examples.maumau.view/-view-controller/refresh-view-controller.html
@@ -209,6 +208,9 @@ $dokka.location:tools.aqua.bgw.builder/DialogBuilder/DialogBuilder/#/PointingToD
 $dokka.location:tools.aqua.bgw.builder/DragDropHelper.Companion///PointingToDeclaration/-board-game-work/tools.aqua.bgw.builder/-drag-drop-helper/-companion/index.html
 $dokka.location:tools.aqua.bgw.builder/DragDropHelper///PointingToDeclaration/-board-game-work/tools.aqua.bgw.builder/-drag-drop-helper/index.html
 $dokka.location:tools.aqua.bgw.builder/DragDropHelper/DragDropHelper/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.builder/-drag-drop-helper/-drag-drop-helper.html
+$dokka.location:tools.aqua.bgw.builder/FXConverters.Companion///PointingToDeclaration/-board-game-work/tools.aqua.bgw.builder/-f-x-converters/-companion/index.html
+$dokka.location:tools.aqua.bgw.builder/FXConverters///PointingToDeclaration/-board-game-work/tools.aqua.bgw.builder/-f-x-converters/index.html
+$dokka.location:tools.aqua.bgw.builder/FXConverters/FXConverters/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.builder/-f-x-converters/-f-x-converters.html
 $dokka.location:tools.aqua.bgw.core////PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/index.html
 $dokka.location:tools.aqua.bgw.core/Alignment.BOTTOM_CENTER///PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-alignment/-b-o-t-t-o-m_-c-e-n-t-e-r/index.html
 $dokka.location:tools.aqua.bgw.core/Alignment.BOTTOM_CENTER/horizontalAlignment/#/PointingToDeclaration/-board-game-work/tools.aqua.bgw.core/-alignment/-b-o-t-t-o-m_-c-e-n-t-e-r/horizontal-alignment.html
