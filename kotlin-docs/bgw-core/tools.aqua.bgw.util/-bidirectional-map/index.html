@@ -1,0 +1,381 @@
+<html>
+  <head>
+    <meta name="viewport" content="width=device-width, initial-scale=1" charset="UTF-8">
+    <title>BidirectionalMap</title>
+<link href="../../../../../../images/logo-icon.svg" rel="icon" type="image/svg"><script>var pathToRoot = "../../../";</script><script type="text/javascript" src="../../../scripts/sourceset_dependencies.js" async="async"></script><link href="../../../styles/style.css" rel="Stylesheet"><link href="../../../styles/logo-styles.css" rel="Stylesheet"><link href="../../../styles/jetbrains-mono.css" rel="Stylesheet"><link href="../../../styles/main.css" rel="Stylesheet"><script type="text/javascript" src="../../../scripts/clipboard.js" async="async"></script><script type="text/javascript" src="../../../scripts/navigation-loader.js" async="async"></script><script type="text/javascript" src="../../../scripts/platform-content-handler.js" async="async"></script><script type="text/javascript" src="../../../scripts/main.js" async="async"></script>  </head>
+  <body>
+    <div id="container">
+      <div id="leftColumn"><a href="../../../index.html">
+          <div id="logo"></div>
+        </a>
+        <div id="paneSearch"></div>
+        <div id="sideMenu"></div>
+      </div>
+      <div id="main">
+        <div id="leftToggler"><span class="icon-toggler"></span></div>
+<script type="text/javascript" src="../../../scripts/main.js"></script>        <div class="main-content" id="content" pageIds="bgw-core::tools.aqua.bgw.util/BidirectionalMap///PointingToDeclaration//640277985">
+          <div class="navigation-wrapper" id="navigation-wrapper">
+            <div class="breadcrumbs"><a href="../../../index.html">bgw-core</a>/<a href="../index.html">tools.aqua.bgw.util</a>/<a href="index.html">BidirectionalMap</a></div>
+            <div class="pull-right d-flex">
+              <div id="searchBar"></div>
+            </div>
+          </div>
+          <div class="cover ">
+            <h1 class="cover"><span>Bidirectional</span><wbr></wbr><span>Map</span></h1>
+            <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-depenent-content" data-active="" data-togglable=":bgw-core:dokkaHtml/main"><div class="symbol monospace">open class <a href="index.html">BidirectionalMap</a>&lt;<a href="index.html">T</a> : <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html">Any</a>, <a href="index.html">R</a> : <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html">Any</a>&gt;(elements: <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-pair/index.html">Pair</a>&lt;<a href="index.html">T</a>, <a href="index.html">R</a>&gt;)<span class="top-right-position"><span class="copy-icon"></span><div class="copy-popup-wrapper popup-to-left"><span class="copy-popup-icon"></span><span>Content copied to clipboard</span></div></span></div><p class="paragraph">A bidirectional map. Each key-value-pair gets mapped in both directions. Keys and values must be unique in the sense that there must not be a duplicate key in the domain, nor a duplicate value in the coDomain, but the same element may appear once as key and once as value.</p><p class="paragraph">Example:</p><p class="paragraph">A -&gt; B</p><p class="paragraph">A -&gt; C</p><p class="paragraph">is invalid because A is contained twice in the Domain.<br></p><p class="paragraph">A -&gt; B</p><p class="paragraph">C -&gt; B</p><p class="paragraph">is invalid because B is contained twice in the coDomain.<br></p><p class="paragraph">A -&gt; B</p><p class="paragraph">C -&gt; A</p><p class="paragraph">is valid because A is only contained once in the domain and in the coDomain.</p></div></div>
+          </div>
+          <div class="tabbedcontent">
+            <div class="tabs-section" tabs-section="tabs-section"><button class="section-tab" data-active="" data-togglable="Constructors">Constructors</button><button class="section-tab" data-togglable="Functions">Functions</button><button class="section-tab" data-togglable="Properties">Properties</button><button class="section-tab" data-togglable="Parameters">Parameters</button></div>
+            <div class="tabs-section-body">
+              <h2 class="">Parameters</h2>
+              <div data-togglable="Parameters">
+                <div class="platform-hinted WithExtraAttributes" data-platform-hinted="data-platform-hinted" data-togglable="Parameters"><div class="content sourceset-depenent-content" data-active="" data-togglable=":bgw-core:dokkaHtml/main"><div data-togglable="Parameters"><div class="table" data-togglable="Parameters"><div class="table-row" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main"><div class="main-subrow keyValue WithExtraAttributes"><div class=""><span class="inline-flex">elements</span></div><div><div class="title"><div data-togglable="Parameters"><p class="paragraph">elements to be initialized in the map.</p></div></div></div></div></div></div></div></div></div>
+              </div>
+              <h2 class="tabbedcontent">Constructors</h2>
+              <div class="table" data-togglable="Constructors"><a data-name="-912120201%2FConstructors%2F640277985" anchor-label="BidirectionalMap" id="-912120201%2FConstructors%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>
+                <div class="table-row" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main">
+                  <div class="main-subrow keyValue TabbedContent">
+                    <div class=""><span class="inline-flex"><a href="-bidirectional-map.html">BidirectionalMap</a><span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-912120201%2FConstructors%2F640277985"></span>
+                          <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                        </span></span></div>
+                    <div>
+                      <div class="title">
+                        <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-depenent-content" data-active="" data-togglable=":bgw-core:dokkaHtml/main"><div class="symbol monospace">fun &lt;<a href="index.html">T</a> : <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html">Any</a>, <a href="index.html">R</a> : <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-any/index.html">Any</a>&gt; <a href="-bidirectional-map.html">BidirectionalMap</a>(vararg elements: <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-pair/index.html">Pair</a>&lt;<a href="index.html">T</a>, <a href="index.html">R</a>&gt;)<span class="top-right-position"><span class="copy-icon"></span><div class="copy-popup-wrapper popup-to-left"><span class="copy-popup-icon"></span><span>Content copied to clipboard</span></div></span></div><div class="brief ">Creates a map with the given set of elements mapping pair.first -&gt; pair.second.</div></div></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <h2 class="">Functions</h2>
+              <div class="table" data-togglable="Functions"><a data-name="615013608%2FFunctions%2F640277985" anchor-label="add" id="615013608%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>
+                <div class="table-row" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main">
+                  <div class="main-subrow keyValue ">
+                    <div class=""><span class="inline-flex"><a href="add.html">add</a><span class="anchor-wrapper"><span class="anchor-icon" pointing-to="615013608%2FFunctions%2F640277985"></span>
+                          <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                        </span></span></div>
+                    <div>
+                      <div class="title"><div class="divergent-group" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main"><div class="with-platform-tags"><span class="pull-right"></span></div>
+
+  <div>
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-depenent-content" data-active="" data-togglable=":bgw-core:dokkaHtml/main"><div class="symbol monospace">fun <a href="add.html">add</a>(element: <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-pair/index.html">Pair</a>&lt;<a href="index.html">T</a>, <a href="index.html">R</a>&gt;): <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html">Boolean</a><span class="top-right-position"><span class="copy-icon"></span><div class="copy-popup-wrapper popup-to-left"><span class="copy-popup-icon"></span><span>Content copied to clipboard</span></div></span></div></div></div>
+  </div>
+<a data-name="228041883%2FFunctions%2F640277985" anchor-label="add" id="228041883%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a><div class="brief "><a data-name="228041883%2FFunctions%2F640277985" anchor-label="add" id="228041883%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>Adds a relation A -&gt; B if domain does not contain A and coDomain does not contain B.</div></div>
+<div class="divergent-group" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main"><div class="with-platform-tags"><span class="pull-right"></span></div>
+
+  <div>
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-depenent-content" data-active="" data-togglable=":bgw-core:dokkaHtml/main"><div class="symbol monospace">fun <a href="add.html">add</a>(entity: <a href="index.html">T</a>, value: <a href="index.html">R</a>): <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html">Boolean</a><span class="top-right-position"><span class="copy-icon"></span><div class="copy-popup-wrapper popup-to-left"><span class="copy-popup-icon"></span><span>Content copied to clipboard</span></div></span></div></div></div>
+  </div>
+<a data-name="140127263%2FFunctions%2F640277985" anchor-label="add" id="140127263%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a><div class="brief "><a data-name="140127263%2FFunctions%2F640277985" anchor-label="add" id="140127263%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>Adds a relation A -&gt; B if domain does not contain A and coDomain does not contain B.</div></div>
+</div>
+                    </div>
+                  </div>
+                </div>
+<a data-name="1742458960%2FFunctions%2F640277985" anchor-label="addAll" id="1742458960%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>
+                <div class="table-row" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main">
+                  <div class="main-subrow keyValue ">
+                    <div class=""><span class="inline-flex"><a href="add-all.html">addAll</a><span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1742458960%2FFunctions%2F640277985"></span>
+                          <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                        </span></span></div>
+                    <div>
+                      <div class="title"><div class="divergent-group" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main"><div class="with-platform-tags"><span class="pull-right"></span></div>
+
+  <div>
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-depenent-content" data-active="" data-togglable=":bgw-core:dokkaHtml/main"><div class="symbol monospace">fun <a href="add-all.html">addAll</a>(vararg items: <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-pair/index.html">Pair</a>&lt;<a href="index.html">T</a>, <a href="index.html">R</a>&gt;): <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html">Boolean</a><span class="top-right-position"><span class="copy-icon"></span><div class="copy-popup-wrapper popup-to-left"><span class="copy-popup-icon"></span><span>Content copied to clipboard</span></div></span></div></div></div>
+  </div>
+<a data-name="1742458960%2FFunctions%2F640277985" anchor-label="addAll" id="1742458960%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a><div class="brief "><a data-name="1742458960%2FFunctions%2F640277985" anchor-label="addAll" id="1742458960%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>Adds all relations A -&gt; B.</div></div>
+</div>
+                    </div>
+                  </div>
+                </div>
+<a data-name="638720227%2FFunctions%2F640277985" anchor-label="backward" id="638720227%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>
+                <div class="table-row" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main">
+                  <div class="main-subrow keyValue ">
+                    <div class=""><span class="inline-flex"><a href="backward.html">backward</a><span class="anchor-wrapper"><span class="anchor-icon" pointing-to="638720227%2FFunctions%2F640277985"></span>
+                          <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                        </span></span></div>
+                    <div>
+                      <div class="title"><div class="divergent-group" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main"><div class="with-platform-tags"><span class="pull-right"></span></div>
+
+  <div>
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-depenent-content" data-active="" data-togglable=":bgw-core:dokkaHtml/main"><div class="symbol monospace">fun <a href="backward.html">backward</a>(value: <a href="index.html">R</a>): <a href="index.html">T</a><span class="top-right-position"><span class="copy-icon"></span><div class="copy-popup-wrapper popup-to-left"><span class="copy-popup-icon"></span><span>Content copied to clipboard</span></div></span></div></div></div>
+  </div>
+<a data-name="638720227%2FFunctions%2F640277985" anchor-label="backward" id="638720227%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a><div class="brief "><a data-name="638720227%2FFunctions%2F640277985" anchor-label="backward" id="638720227%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>Backward lookup for entry.</div></div>
+</div>
+                    </div>
+                  </div>
+                </div>
+<a data-name="-660846407%2FFunctions%2F640277985" anchor-label="backwardOrNull" id="-660846407%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>
+                <div class="table-row" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main">
+                  <div class="main-subrow keyValue ">
+                    <div class=""><span class="inline-flex"><a href="backward-or-null.html">backwardOrNull</a><span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-660846407%2FFunctions%2F640277985"></span>
+                          <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                        </span></span></div>
+                    <div>
+                      <div class="title"><div class="divergent-group" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main"><div class="with-platform-tags"><span class="pull-right"></span></div>
+
+  <div>
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-depenent-content" data-active="" data-togglable=":bgw-core:dokkaHtml/main"><div class="symbol monospace">fun <a href="backward-or-null.html">backwardOrNull</a>(value: <a href="index.html">R</a>): <a href="index.html">T</a>?<span class="top-right-position"><span class="copy-icon"></span><div class="copy-popup-wrapper popup-to-left"><span class="copy-popup-icon"></span><span>Content copied to clipboard</span></div></span></div></div></div>
+  </div>
+<a data-name="-660846407%2FFunctions%2F640277985" anchor-label="backwardOrNull" id="-660846407%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a><div class="brief "><a data-name="-660846407%2FFunctions%2F640277985" anchor-label="backwardOrNull" id="-660846407%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>Backward lookup for entry.</div></div>
+</div>
+                    </div>
+                  </div>
+                </div>
+<a data-name="-1314934956%2FFunctions%2F640277985" anchor-label="clear" id="-1314934956%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>
+                <div class="table-row" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main">
+                  <div class="main-subrow keyValue ">
+                    <div class=""><span class="inline-flex"><a href="clear.html">clear</a><span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1314934956%2FFunctions%2F640277985"></span>
+                          <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                        </span></span></div>
+                    <div>
+                      <div class="title"><div class="divergent-group" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main"><div class="with-platform-tags"><span class="pull-right"></span></div>
+
+  <div>
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-depenent-content" data-active="" data-togglable=":bgw-core:dokkaHtml/main"><div class="symbol monospace">fun <a href="clear.html">clear</a>()<span class="top-right-position"><span class="copy-icon"></span><div class="copy-popup-wrapper popup-to-left"><span class="copy-popup-icon"></span><span>Content copied to clipboard</span></div></span></div></div></div>
+  </div>
+<a data-name="-1314934956%2FFunctions%2F640277985" anchor-label="clear" id="-1314934956%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a><div class="brief "><a data-name="-1314934956%2FFunctions%2F640277985" anchor-label="clear" id="-1314934956%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>Clears the map.</div></div>
+</div>
+                    </div>
+                  </div>
+                </div>
+<a data-name="-776030034%2FFunctions%2F640277985" anchor-label="contains" id="-776030034%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>
+                <div class="table-row" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main">
+                  <div class="main-subrow keyValue ">
+                    <div class=""><span class="inline-flex"><a href="contains.html">contains</a><span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-776030034%2FFunctions%2F640277985"></span>
+                          <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                        </span></span></div>
+                    <div>
+                      <div class="title"><div class="divergent-group" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main"><div class="with-platform-tags"><span class="pull-right"></span></div>
+
+  <div>
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-depenent-content" data-active="" data-togglable=":bgw-core:dokkaHtml/main"><div class="symbol monospace">fun <a href="contains.html">contains</a>(pair: <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-pair/index.html">Pair</a>&lt;<a href="index.html">T</a>, <a href="index.html">R</a>&gt;): <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html">Boolean</a><span class="top-right-position"><span class="copy-icon"></span><div class="copy-popup-wrapper popup-to-left"><span class="copy-popup-icon"></span><span>Content copied to clipboard</span></div></span></div></div></div>
+  </div>
+<a data-name="-1052891563%2FFunctions%2F640277985" anchor-label="contains" id="-1052891563%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a><div class="brief "><a data-name="-1052891563%2FFunctions%2F640277985" anchor-label="contains" id="-1052891563%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>Returns whether relation A -&gt; B exists in this map.</div></div>
+<div class="divergent-group" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main"><div class="with-platform-tags"><span class="pull-right"></span></div>
+
+  <div>
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-depenent-content" data-active="" data-togglable=":bgw-core:dokkaHtml/main"><div class="symbol monospace">fun <a href="contains.html">contains</a>(entity: <a href="index.html">T</a>, value: <a href="index.html">R</a>): <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html">Boolean</a><span class="top-right-position"><span class="copy-icon"></span><div class="copy-popup-wrapper popup-to-left"><span class="copy-popup-icon"></span><span>Content copied to clipboard</span></div></span></div></div></div>
+  </div>
+<a data-name="123823141%2FFunctions%2F640277985" anchor-label="contains" id="123823141%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a><div class="brief "><a data-name="123823141%2FFunctions%2F640277985" anchor-label="contains" id="123823141%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>Returns whether relation A -&gt; B exists in this map.</div></div>
+</div>
+                    </div>
+                  </div>
+                </div>
+<a data-name="817878724%2FFunctions%2F640277985" anchor-label="containsBackward" id="817878724%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>
+                <div class="table-row" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main">
+                  <div class="main-subrow keyValue ">
+                    <div class=""><span class="inline-flex"><a href="contains-backward.html">containsBackward</a><span class="anchor-wrapper"><span class="anchor-icon" pointing-to="817878724%2FFunctions%2F640277985"></span>
+                          <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                        </span></span></div>
+                    <div>
+                      <div class="title"><div class="divergent-group" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main"><div class="with-platform-tags"><span class="pull-right"></span></div>
+
+  <div>
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-depenent-content" data-active="" data-togglable=":bgw-core:dokkaHtml/main"><div class="symbol monospace">fun <a href="contains-backward.html">containsBackward</a>(value: <a href="index.html">R</a>): <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html">Boolean</a><span class="top-right-position"><span class="copy-icon"></span><div class="copy-popup-wrapper popup-to-left"><span class="copy-popup-icon"></span><span>Content copied to clipboard</span></div></span></div></div></div>
+  </div>
+<a data-name="817878724%2FFunctions%2F640277985" anchor-label="containsBackward" id="817878724%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a><div class="brief "><a data-name="817878724%2FFunctions%2F640277985" anchor-label="containsBackward" id="817878724%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>Returns whether a relation * -&gt; B exists.</div></div>
+</div>
+                    </div>
+                  </div>
+                </div>
+<a data-name="-365037624%2FFunctions%2F640277985" anchor-label="containsForward" id="-365037624%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>
+                <div class="table-row" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main">
+                  <div class="main-subrow keyValue ">
+                    <div class=""><span class="inline-flex"><a href="contains-forward.html">containsForward</a><span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-365037624%2FFunctions%2F640277985"></span>
+                          <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                        </span></span></div>
+                    <div>
+                      <div class="title"><div class="divergent-group" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main"><div class="with-platform-tags"><span class="pull-right"></span></div>
+
+  <div>
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-depenent-content" data-active="" data-togglable=":bgw-core:dokkaHtml/main"><div class="symbol monospace">fun <a href="contains-forward.html">containsForward</a>(entity: <a href="index.html">T</a>): <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html">Boolean</a><span class="top-right-position"><span class="copy-icon"></span><div class="copy-popup-wrapper popup-to-left"><span class="copy-popup-icon"></span><span>Content copied to clipboard</span></div></span></div></div></div>
+  </div>
+<a data-name="-365037624%2FFunctions%2F640277985" anchor-label="containsForward" id="-365037624%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a><div class="brief "><a data-name="-365037624%2FFunctions%2F640277985" anchor-label="containsForward" id="-365037624%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>Returns whether a relation A -&gt; * exists.</div></div>
+</div>
+                    </div>
+                  </div>
+                </div>
+<a data-name="-1063553591%2FFunctions%2F640277985" anchor-label="forward" id="-1063553591%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>
+                <div class="table-row" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main">
+                  <div class="main-subrow keyValue ">
+                    <div class=""><span class="inline-flex"><a href="forward.html">forward</a><span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1063553591%2FFunctions%2F640277985"></span>
+                          <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                        </span></span></div>
+                    <div>
+                      <div class="title"><div class="divergent-group" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main"><div class="with-platform-tags"><span class="pull-right"></span></div>
+
+  <div>
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-depenent-content" data-active="" data-togglable=":bgw-core:dokkaHtml/main"><div class="symbol monospace">fun <a href="forward.html">forward</a>(entity: <a href="index.html">T</a>): <a href="index.html">R</a><span class="top-right-position"><span class="copy-icon"></span><div class="copy-popup-wrapper popup-to-left"><span class="copy-popup-icon"></span><span>Content copied to clipboard</span></div></span></div></div></div>
+  </div>
+<a data-name="-1063553591%2FFunctions%2F640277985" anchor-label="forward" id="-1063553591%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a><div class="brief "><a data-name="-1063553591%2FFunctions%2F640277985" anchor-label="forward" id="-1063553591%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>Forward lookup for entry.</div></div>
+</div>
+                    </div>
+                  </div>
+                </div>
+<a data-name="-326508257%2FFunctions%2F640277985" anchor-label="forwardOrNull" id="-326508257%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>
+                <div class="table-row" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main">
+                  <div class="main-subrow keyValue ">
+                    <div class=""><span class="inline-flex"><a href="forward-or-null.html">forwardOrNull</a><span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-326508257%2FFunctions%2F640277985"></span>
+                          <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                        </span></span></div>
+                    <div>
+                      <div class="title"><div class="divergent-group" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main"><div class="with-platform-tags"><span class="pull-right"></span></div>
+
+  <div>
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-depenent-content" data-active="" data-togglable=":bgw-core:dokkaHtml/main"><div class="symbol monospace">fun <a href="forward-or-null.html">forwardOrNull</a>(entity: <a href="index.html">T</a>): <a href="index.html">R</a>?<span class="top-right-position"><span class="copy-icon"></span><div class="copy-popup-wrapper popup-to-left"><span class="copy-popup-icon"></span><span>Content copied to clipboard</span></div></span></div></div></div>
+  </div>
+<a data-name="-326508257%2FFunctions%2F640277985" anchor-label="forwardOrNull" id="-326508257%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a><div class="brief "><a data-name="-326508257%2FFunctions%2F640277985" anchor-label="forwardOrNull" id="-326508257%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>Forward lookup for entry.</div></div>
+</div>
+                    </div>
+                  </div>
+                </div>
+<a data-name="244908795%2FFunctions%2F640277985" anchor-label="getCoDomain" id="244908795%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>
+                <div class="table-row" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main">
+                  <div class="main-subrow keyValue ">
+                    <div class=""><span class="inline-flex"><a href="get-co-domain.html">getCoDomain</a><span class="anchor-wrapper"><span class="anchor-icon" pointing-to="244908795%2FFunctions%2F640277985"></span>
+                          <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                        </span></span></div>
+                    <div>
+                      <div class="title"><div class="divergent-group" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main"><div class="with-platform-tags"><span class="pull-right"></span></div>
+
+  <div>
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-depenent-content" data-active="" data-togglable=":bgw-core:dokkaHtml/main"><div class="symbol monospace">fun <a href="get-co-domain.html">getCoDomain</a>(): <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-set/index.html">Set</a>&lt;<a href="index.html">R</a>&gt;<span class="top-right-position"><span class="copy-icon"></span><div class="copy-popup-wrapper popup-to-left"><span class="copy-popup-icon"></span><span>Content copied to clipboard</span></div></span></div></div></div>
+  </div>
+<a data-name="244908795%2FFunctions%2F640277985" anchor-label="getCoDomain" id="244908795%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a><div class="brief "><a data-name="244908795%2FFunctions%2F640277985" anchor-label="getCoDomain" id="244908795%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>Returns the coDomain of this map as a set.</div></div>
+</div>
+                    </div>
+                  </div>
+                </div>
+<a data-name="1926475911%2FFunctions%2F640277985" anchor-label="getDomain" id="1926475911%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>
+                <div class="table-row" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main">
+                  <div class="main-subrow keyValue ">
+                    <div class=""><span class="inline-flex"><a href="get-domain.html">getDomain</a><span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1926475911%2FFunctions%2F640277985"></span>
+                          <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                        </span></span></div>
+                    <div>
+                      <div class="title"><div class="divergent-group" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main"><div class="with-platform-tags"><span class="pull-right"></span></div>
+
+  <div>
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-depenent-content" data-active="" data-togglable=":bgw-core:dokkaHtml/main"><div class="symbol monospace">fun <a href="get-domain.html">getDomain</a>(): <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/-set/index.html">Set</a>&lt;<a href="index.html">T</a>&gt;<span class="top-right-position"><span class="copy-icon"></span><div class="copy-popup-wrapper popup-to-left"><span class="copy-popup-icon"></span><span>Content copied to clipboard</span></div></span></div></div></div>
+  </div>
+<a data-name="1926475911%2FFunctions%2F640277985" anchor-label="getDomain" id="1926475911%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a><div class="brief "><a data-name="1926475911%2FFunctions%2F640277985" anchor-label="getDomain" id="1926475911%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>Returns the domain of this map as a set.</div></div>
+</div>
+                    </div>
+                  </div>
+                </div>
+<a data-name="1950692126%2FFunctions%2F640277985" anchor-label="isEmpty" id="1950692126%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>
+                <div class="table-row" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main">
+                  <div class="main-subrow keyValue ">
+                    <div class=""><span class="inline-flex"><a href="is-empty.html">isEmpty</a><span class="anchor-wrapper"><span class="anchor-icon" pointing-to="1950692126%2FFunctions%2F640277985"></span>
+                          <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                        </span></span></div>
+                    <div>
+                      <div class="title"><div class="divergent-group" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main"><div class="with-platform-tags"><span class="pull-right"></span></div>
+
+  <div>
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-depenent-content" data-active="" data-togglable=":bgw-core:dokkaHtml/main"><div class="symbol monospace">fun <a href="is-empty.html">isEmpty</a>(): <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html">Boolean</a><span class="top-right-position"><span class="copy-icon"></span><div class="copy-popup-wrapper popup-to-left"><span class="copy-popup-icon"></span><span>Content copied to clipboard</span></div></span></div></div></div>
+  </div>
+<a data-name="1950692126%2FFunctions%2F640277985" anchor-label="isEmpty" id="1950692126%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a><div class="brief "><a data-name="1950692126%2FFunctions%2F640277985" anchor-label="isEmpty" id="1950692126%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>Returns whether this map contains no elements.</div></div>
+</div>
+                    </div>
+                  </div>
+                </div>
+<a data-name="-762975243%2FFunctions%2F640277985" anchor-label="isNotEmpty" id="-762975243%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>
+                <div class="table-row" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main">
+                  <div class="main-subrow keyValue ">
+                    <div class=""><span class="inline-flex"><a href="is-not-empty.html">isNotEmpty</a><span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-762975243%2FFunctions%2F640277985"></span>
+                          <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                        </span></span></div>
+                    <div>
+                      <div class="title"><div class="divergent-group" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main"><div class="with-platform-tags"><span class="pull-right"></span></div>
+
+  <div>
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-depenent-content" data-active="" data-togglable=":bgw-core:dokkaHtml/main"><div class="symbol monospace">fun <a href="is-not-empty.html">isNotEmpty</a>(): <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html">Boolean</a><span class="top-right-position"><span class="copy-icon"></span><div class="copy-popup-wrapper popup-to-left"><span class="copy-popup-icon"></span><span>Content copied to clipboard</span></div></span></div></div></div>
+  </div>
+<a data-name="-762975243%2FFunctions%2F640277985" anchor-label="isNotEmpty" id="-762975243%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a><div class="brief "><a data-name="-762975243%2FFunctions%2F640277985" anchor-label="isNotEmpty" id="-762975243%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>Returns whether this map contains elements.</div></div>
+</div>
+                    </div>
+                  </div>
+                </div>
+<a data-name="167433486%2FFunctions%2F640277985" anchor-label="remove" id="167433486%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>
+                <div class="table-row" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main">
+                  <div class="main-subrow keyValue ">
+                    <div class=""><span class="inline-flex"><a href="remove.html">remove</a><span class="anchor-wrapper"><span class="anchor-icon" pointing-to="167433486%2FFunctions%2F640277985"></span>
+                          <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                        </span></span></div>
+                    <div>
+                      <div class="title"><div class="divergent-group" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main"><div class="with-platform-tags"><span class="pull-right"></span></div>
+
+  <div>
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-depenent-content" data-active="" data-togglable=":bgw-core:dokkaHtml/main"><div class="symbol monospace">fun <a href="remove.html">remove</a>(element: <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-pair/index.html">Pair</a>&lt;<a href="index.html">T</a>, <a href="index.html">R</a>&gt;): <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html">Boolean</a><span class="top-right-position"><span class="copy-icon"></span><div class="copy-popup-wrapper popup-to-left"><span class="copy-popup-icon"></span><span>Content copied to clipboard</span></div></span></div></div></div>
+  </div>
+<a data-name="-651990832%2FFunctions%2F640277985" anchor-label="remove" id="-651990832%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a><div class="brief "><a data-name="-651990832%2FFunctions%2F640277985" anchor-label="remove" id="-651990832%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>Removes relation A -&gt; B if it exists.</div></div>
+<div class="divergent-group" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main"><div class="with-platform-tags"><span class="pull-right"></span></div>
+
+  <div>
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-depenent-content" data-active="" data-togglable=":bgw-core:dokkaHtml/main"><div class="symbol monospace">fun <a href="remove.html">remove</a>(entity: <a href="index.html">T</a>, value: <a href="index.html">R</a>): <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html">Boolean</a><span class="top-right-position"><span class="copy-icon"></span><div class="copy-popup-wrapper popup-to-left"><span class="copy-popup-icon"></span><span>Content copied to clipboard</span></div></span></div></div></div>
+  </div>
+<a data-name="484095434%2FFunctions%2F640277985" anchor-label="remove" id="484095434%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a><div class="brief "><a data-name="484095434%2FFunctions%2F640277985" anchor-label="remove" id="484095434%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>Removes relation A -&gt; B if it exists.</div></div>
+</div>
+                    </div>
+                  </div>
+                </div>
+<a data-name="-884065601%2FFunctions%2F640277985" anchor-label="removeBackward" id="-884065601%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>
+                <div class="table-row" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main">
+                  <div class="main-subrow keyValue ">
+                    <div class=""><span class="inline-flex"><a href="remove-backward.html">removeBackward</a><span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-884065601%2FFunctions%2F640277985"></span>
+                          <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                        </span></span></div>
+                    <div>
+                      <div class="title"><div class="divergent-group" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main"><div class="with-platform-tags"><span class="pull-right"></span></div>
+
+  <div>
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-depenent-content" data-active="" data-togglable=":bgw-core:dokkaHtml/main"><div class="symbol monospace">fun <a href="remove-backward.html">removeBackward</a>(value: <a href="index.html">R</a>): <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html">Boolean</a><span class="top-right-position"><span class="copy-icon"></span><div class="copy-popup-wrapper popup-to-left"><span class="copy-popup-icon"></span><span>Content copied to clipboard</span></div></span></div></div></div>
+  </div>
+<a data-name="-884065601%2FFunctions%2F640277985" anchor-label="removeBackward" id="-884065601%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a><div class="brief "><a data-name="-884065601%2FFunctions%2F640277985" anchor-label="removeBackward" id="-884065601%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>Removes by backward lookup.</div></div>
+</div>
+                    </div>
+                  </div>
+                </div>
+<a data-name="-1666865043%2FFunctions%2F640277985" anchor-label="removeForward" id="-1666865043%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>
+                <div class="table-row" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main">
+                  <div class="main-subrow keyValue ">
+                    <div class=""><span class="inline-flex"><a href="remove-forward.html">removeForward</a><span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-1666865043%2FFunctions%2F640277985"></span>
+                          <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                        </span></span></div>
+                    <div>
+                      <div class="title"><div class="divergent-group" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main"><div class="with-platform-tags"><span class="pull-right"></span></div>
+
+  <div>
+    <div class="platform-hinted " data-platform-hinted="data-platform-hinted"><div class="content sourceset-depenent-content" data-active="" data-togglable=":bgw-core:dokkaHtml/main"><div class="symbol monospace">fun <a href="remove-forward.html">removeForward</a>(entity: <a href="index.html">T</a>): <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-boolean/index.html">Boolean</a><span class="top-right-position"><span class="copy-icon"></span><div class="copy-popup-wrapper popup-to-left"><span class="copy-popup-icon"></span><span>Content copied to clipboard</span></div></span></div></div></div>
+  </div>
+<a data-name="-1666865043%2FFunctions%2F640277985" anchor-label="removeForward" id="-1666865043%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a><div class="brief "><a data-name="-1666865043%2FFunctions%2F640277985" anchor-label="removeForward" id="-1666865043%2FFunctions%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>Removes by forward lookup.</div></div>
+</div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+              <h2 class="">Properties</h2>
+              <div class="table" data-togglable="Properties"><a data-name="-340206312%2FProperties%2F640277985" anchor-label="size" id="-340206312%2FProperties%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>
+                <div class="table-row" data-filterable-current=":bgw-core:dokkaHtml/main" data-filterable-set=":bgw-core:dokkaHtml/main">
+                  <div class="main-subrow keyValue ">
+                    <div class=""><span class="inline-flex"><a href="size.html">size</a><span class="anchor-wrapper"><span class="anchor-icon" pointing-to="-340206312%2FProperties%2F640277985"></span>
+                          <div class="copy-popup-wrapper "><span class="copy-popup-icon"></span><span>Link copied to clipboard</span></div>
+                        </span></span></div>
+                    <div>
+                      <div class="title">
+                        <div class="platform-hinted " data-platform-hinted="data-platform-hinted" data-togglable="Properties"><div class="content sourceset-depenent-content" data-active="" data-togglable=":bgw-core:dokkaHtml/main"><a data-name="-340206312%2FProperties%2F640277985" anchor-label="size" id="-340206312%2FProperties%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a><div class="symbol monospace">val <a href="size.html">size</a>: <a href="https://kotlinlang.org/api/latest/jvm/stdlib/kotlin/-int/index.html">Int</a><span class="top-right-position"><span class="copy-icon"></span><div class="copy-popup-wrapper popup-to-left"><span class="copy-popup-icon"></span><span>Content copied to clipboard</span></div></span></div><div class="brief "><a data-name="-340206312%2FProperties%2F640277985" anchor-label="size" id="-340206312%2FProperties%2F640277985" data-filterable-set=":bgw-core:dokkaHtml/main"></a>The size of this map.</div></div></div>
+                      </div>
+                    </div>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </div>
+        </div>
+        <div class="footer"><span class="go-to-top-icon"><a href="#content"></a></span><span>© 2021 Copyright</span><span class="pull-right"><span>Generated by </span><a href="https://github.com/Kotlin/dokka"><span>dokka</span><span class="padded-icon"></span></a></span></div>
+      </div>
+    </div>
+  </body>
+</html>
+

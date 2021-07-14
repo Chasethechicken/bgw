@@ -1,1 +1,1 @@
-sourceset_dependencies='{":framework:dokkaHtml/main":[]}'
+sourceset_dependencies='{":bgw-core:dokkaHtml/main":[]}'
