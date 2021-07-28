@@ -53,7 +53,7 @@ val visual: ImageVisual = ImageVisual("card_deck.png")
 ````
 ![image](card_deck.png)
 
-To select for example the three of diamonds from this texture map as a sub image, knowing that each card has a height of 200px and width 130px, we can write the following code:
+To select for example the **three of diamonds** from this texture map as a sub image, knowing that each card has a height of 200px and width 130px, we can write the following code:
 ````kotlin
 val visual: ImageVisual = ImageVisual(
   path = "card_deck.png",
@@ -66,3 +66,4 @@ val visual: ImageVisual = ImageVisual(
 
 
 ## [CompoundVisual](/bgw/kotlin-docs/bgw-core/tools.aqua.bgw.visual/-compound-visual/)
+CompundVisuals can be used to stack multiple visuals.
