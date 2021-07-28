@@ -36,7 +36,7 @@ val visual4: ColorVisual = ColorVisual.RED
 
 
 ### [TextVisual](/bgw/kotlin-docs/bgw-core/tools.aqua.bgw.visual/-text-visual/)
-The TextVisual displays one line of text. It can either be created with the text to display as string and additionally an optional [Font](/bgw/kotlin-docs/bgw-core/tools.aqua.bgw.util/-font/). The following example shows the code for a TextVisual that displays "Token" in white witgh bold text in 18px size. All parameters in the font constructor are optional, so *fontStyle* for example is redundant as it contains the default value:
+The TextVisual displays one line of text. It can either be created with the text to display as string and additionally an optional [Font](/bgw/kotlin-docs/bgw-core/tools.aqua.bgw.util/-font/). The following example shows the code for a TextVisual that displays "Token" in white with bold text in 18px size. All parameters in the font constructor are optional, so *fontStyle* for example is redundant as it contains the default value:
 ````kotlin
 val visual: TextVisual = TextVisual("Token", Font(
   size = 18,
