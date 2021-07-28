@@ -35,17 +35,22 @@ val visual4: ColorVisual = ColorVisual.RED
 
 
 ### [TextVisual](/bgw/kotlin-docs/bgw-core/tools.aqua.bgw.visual/-text-visual/)
-The TextVisual displays one line of text. It can either be created with the text to display as string and additionally an optional [Font](/bgw/kotlin-docs/bgw-core/tools.aqua.bgw.util/-font/). The following example shows the code for a TextVisual that displays "Token" in white with bold text in 18px size. All parameters in the font constructor are optional, so *fontStyle* for example is redundant as it contains the default value:
+The TextVisual displays one line of text. It can be created with the text to display as a string and an optional [Font](/bgw/kotlin-docs/bgw-core/tools.aqua.bgw.util/-font/). The following example shows the code for a TextVisual that displays "Token" in white with bold text in Arial 18px size. All parameters in the font constructor are optional, so *fontStyle* for example is redundant as it contains the default value:
 ````kotlin
 val visual: TextVisual = TextVisual("Token", Font(
   size = 18,
   color = Color.WHITE,
   family = "Arial",
-  fontWeight = Font.FontWeight.BOLD,,
+  fontWeight = Font.FontWeight.BOLD,
   fontStyle = Font.FontStyle.NORMAL
 ))
 ````
 
 ### [ImageVisual](/bgw/kotlin-docs/bgw-core/tools.aqua.bgw.visual/-image-visual/)
+The ImageVisual displays a a given Image. It can be eather be created with a [BufferedImage](https://docs.oracle.com/en/java/javase/11/docs/api/java.desktop/java/awt/image/BufferedImage.html) or by declaring the image file to load as [File](https://docs.oracle.com/en/java/javase/11/docs/api/java.base/java/io/File.html) or path string relative to the application's ressource folder. Addidtionally the size and position of a sub-image can be passed in order to select from a texture map. The following code example shows how to load an image:
+````kotlin
+val visual: ImageVisual = ImageVisual("card_deck.png")
+````
+
 
 ## [CompoundVisual](/bgw/kotlin-docs/bgw-core/tools.aqua.bgw.visual/-compound-visual/)
