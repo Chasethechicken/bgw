@@ -562,7 +562,6 @@ $dokka.location:tools.aqua.bgw.dialog/ButtonType///PointingToDeclaration/bgw-co
 $dokka.location:tools.aqua.bgw.dialog/Dialog///PointingToDeclaration/bgw-core/tools.aqua.bgw.dialog/-dialog/index.html
 $dokka.location:tools.aqua.bgw.dialog/Dialog/Dialog/#kotlin.String#kotlin.String#kotlin.String#kotlin.Throwable/PointingToDeclaration/bgw-core/tools.aqua.bgw.dialog/-dialog/-dialog.html
 $dokka.location:tools.aqua.bgw.dialog/Dialog/Dialog/#tools.aqua.bgw.dialog.AlertType#kotlin.String#kotlin.String#kotlin.String#kotlin.Array[tools.aqua.bgw.dialog.ButtonType]/PointingToDeclaration/bgw-core/tools.aqua.bgw.dialog/-dialog/-dialog.html
-$dokka.location:tools.aqua.bgw.dialog/Dialog/Dialog/#tools.aqua.bgw.dialog.AlertType#kotlin.String#kotlin.String#kotlin.String#kotlin.Throwable?#kotlin.Array[tools.aqua.bgw.dialog.ButtonType]/PointingToDeclaration/bgw-core/tools.aqua.bgw.dialog/-dialog/-dialog.html
 $dokka.location:tools.aqua.bgw.dialog/Dialog/alertType/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.dialog/-dialog/alert-type.html
 $dokka.location:tools.aqua.bgw.dialog/Dialog/buttons/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.dialog/-dialog/buttons.html
 $dokka.location:tools.aqua.bgw.dialog/Dialog/exception/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.dialog/-dialog/exception.html
