@@ -72,6 +72,8 @@ $dokka.location:tools.aqua.bgw.components.container/GameComponentContainer/isEmp
 $dokka.location:tools.aqua.bgw.components.container/GameComponentContainer/isNotEmpty/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.container/-game-component-container/is-not-empty.html
 $dokka.location:tools.aqua.bgw.components.container/GameComponentContainer/iterator/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.container/-game-component-container/iterator.html
 $dokka.location:tools.aqua.bgw.components.container/GameComponentContainer/numberOfComponents/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.container/-game-component-container/number-of-components.html
+$dokka.location:tools.aqua.bgw.components.container/GameComponentContainer/onAdd/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.container/-game-component-container/on-add.html
+$dokka.location:tools.aqua.bgw.components.container/GameComponentContainer/onRemove/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.container/-game-component-container/on-remove.html
 $dokka.location:tools.aqua.bgw.components.container/GameComponentContainer/remove/#TypeParam(bounds=[tools.aqua.bgw.components.gamecomponentviews.GameComponentView])/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.container/-game-component-container/remove.html
 $dokka.location:tools.aqua.bgw.components.container/GameComponentContainer/removeAll/#kotlin.Function1[TypeParam(bounds=[tools.aqua.bgw.components.gamecomponentviews.GameComponentView]),kotlin.Boolean]/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.container/-game-component-container/remove-all.html
 $dokka.location:tools.aqua.bgw.components.container/GameComponentContainer/removeAll/#kotlin.collections.Collection[TypeParam(bounds=[tools.aqua.bgw.components.gamecomponentviews.GameComponentView])]/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.container/-game-component-container/remove-all.html
@@ -1139,8 +1141,6 @@ $dokka.location:tools.aqua.bgw.observable/IntegerProperty/IntegerProperty/#kotli
 $dokka.location:tools.aqua.bgw.observable/LimitedDoubleProperty///PointingToDeclaration/bgw-core/tools.aqua.bgw.observable/-limited-double-property/index.html
 $dokka.location:tools.aqua.bgw.observable/LimitedDoubleProperty/LimitedDoubleProperty/#kotlin.Number#kotlin.Number#kotlin.Number/PointingToDeclaration/bgw-core/tools.aqua.bgw.observable/-limited-double-property/-limited-double-property.html
 $dokka.location:tools.aqua.bgw.observable/LimitedDoubleProperty/value/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.observable/-limited-double-property/value.html
-$dokka.location:tools.aqua.bgw.observable/ObjectProperty///PointingToDeclaration/bgw-core/tools.aqua.bgw.observable/-object-property/index.html
-$dokka.location:tools.aqua.bgw.observable/ObjectProperty/ObjectProperty/#TypeParam(bounds=[kotlin.Any?])/PointingToDeclaration/bgw-core/tools.aqua.bgw.observable/-object-property/-object-property.html
 $dokka.location:tools.aqua.bgw.observable/Observable///PointingToDeclaration/bgw-core/tools.aqua.bgw.observable/-observable/index.html
 $dokka.location:tools.aqua.bgw.observable/Observable/Observable/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.observable/-observable/-observable.html
 $dokka.location:tools.aqua.bgw.observable/Observable/addListener/#tools.aqua.bgw.observable.IObservable/PointingToDeclaration/bgw-core/tools.aqua.bgw.observable/-observable/add-listener.html
@@ -1197,7 +1197,6 @@ $dokka.location:tools.aqua.bgw.observable/ValueObservable/ValueObservable/#/Poin
 $dokka.location:tools.aqua.bgw.observable/ValueObservable/addListener/#kotlin.Function2[TypeParam(bounds=[kotlin.Any?]),TypeParam(bounds=[kotlin.Any?]),kotlin.Unit]/PointingToDeclaration/bgw-core/tools.aqua.bgw.observable/-value-observable/add-listener.html
 $dokka.location:tools.aqua.bgw.observable/ValueObservable/addListenerAndInvoke/#TypeParam(bounds=[kotlin.Any?])#kotlin.Function2[TypeParam(bounds=[kotlin.Any?]),TypeParam(bounds=[kotlin.Any?]),kotlin.Unit]/PointingToDeclaration/bgw-core/tools.aqua.bgw.observable/-value-observable/add-listener-and-invoke.html
 $dokka.location:tools.aqua.bgw.observable/ValueObservable/clearListeners/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.observable/-value-observable/clear-listeners.html
-$dokka.location:tools.aqua.bgw.observable/ValueObservable/notifyChange/#TypeParam(bounds=[kotlin.Any?])#TypeParam(bounds=[kotlin.Any?])/PointingToDeclaration/bgw-core/tools.aqua.bgw.observable/-value-observable/notify-change.html
 $dokka.location:tools.aqua.bgw.observable/ValueObservable/removeListener/#kotlin.Function2[TypeParam(bounds=[kotlin.Any?]),TypeParam(bounds=[kotlin.Any?]),kotlin.Unit]/PointingToDeclaration/bgw-core/tools.aqua.bgw.observable/-value-observable/remove-listener.html
 $dokka.location:tools.aqua.bgw.util////PointingToDeclaration/bgw-core/tools.aqua.bgw.util/index.html
 $dokka.location:tools.aqua.bgw.util/BidirectionalMap///PointingToDeclaration/bgw-core/tools.aqua.bgw.util/-bidirectional-map/index.html
