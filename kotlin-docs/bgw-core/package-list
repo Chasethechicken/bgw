@@ -1239,6 +1239,8 @@ $dokka.location:tools.aqua.bgw.util/CoordinatePlain/CoordinatePlain/#tools.aqua.
 $dokka.location:tools.aqua.bgw.util/CoordinatePlain/bottomLeft/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.util/-coordinate-plain/bottom-left.html
 $dokka.location:tools.aqua.bgw.util/CoordinatePlain/bottomRight/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.util/-coordinate-plain/bottom-right.html
 $dokka.location:tools.aqua.bgw.util/CoordinatePlain/height/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.util/-coordinate-plain/height.html
+$dokka.location:tools.aqua.bgw.util/CoordinatePlain/isIn/#kotlin.Number#kotlin.Number/PointingToDeclaration/bgw-core/tools.aqua.bgw.util/-coordinate-plain/is-in.html
+$dokka.location:tools.aqua.bgw.util/CoordinatePlain/isIn/#tools.aqua.bgw.util.Coordinate/PointingToDeclaration/bgw-core/tools.aqua.bgw.util/-coordinate-plain/is-in.html
 $dokka.location:tools.aqua.bgw.util/CoordinatePlain/topLeft/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.util/-coordinate-plain/top-left.html
 $dokka.location:tools.aqua.bgw.util/CoordinatePlain/topRight/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.util/-coordinate-plain/top-right.html
 $dokka.location:tools.aqua.bgw.util/CoordinatePlain/width/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.util/-coordinate-plain/width.html
