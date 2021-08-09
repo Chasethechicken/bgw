@@ -252,8 +252,8 @@ $dokka.location:tools.aqua.bgw.components.uicomponents/Label/Label/#kotlin.Numbe
 $dokka.location:tools.aqua.bgw.components.uicomponents/LabeledUIComponent///PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-labeled-u-i-component/index.html
 $dokka.location:tools.aqua.bgw.components.uicomponents/LabeledUIComponent/alignment/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-labeled-u-i-component/alignment.html
 $dokka.location:tools.aqua.bgw.components.uicomponents/LabeledUIComponent/alignmentProperty/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-labeled-u-i-component/alignment-property.html
-$dokka.location:tools.aqua.bgw.components.uicomponents/LabeledUIComponent/label/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-labeled-u-i-component/label.html
-$dokka.location:tools.aqua.bgw.components.uicomponents/LabeledUIComponent/labelProperty/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-labeled-u-i-component/label-property.html
+$dokka.location:tools.aqua.bgw.components.uicomponents/LabeledUIComponent/text/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-labeled-u-i-component/text.html
+$dokka.location:tools.aqua.bgw.components.uicomponents/LabeledUIComponent/textProperty/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-labeled-u-i-component/text-property.html
 $dokka.location:tools.aqua.bgw.components.uicomponents/ListView.Companion///PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-list-view/-companion/index.html
 $dokka.location:tools.aqua.bgw.components.uicomponents/ListView.Companion/DEFAULT_LISTVIEW_HEIGHT/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-list-view/-companion/-d-e-f-a-u-l-t_-l-i-s-t-v-i-e-w_-h-e-i-g-h-t.html
 $dokka.location:tools.aqua.bgw.components.uicomponents/ListView.Companion/DEFAULT_LISTVIEW_WIDTH/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-list-view/-companion/-d-e-f-a-u-l-t_-l-i-s-t-v-i-e-w_-w-i-d-t-h.html
