@@ -36,16 +36,6 @@ $dokka.location:tools.aqua.bgw.animation/RotationAnimation/fromAngle/#/PointingT
 $dokka.location:tools.aqua.bgw.animation/RotationAnimation/toAngle/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.animation/-rotation-animation/to-angle.html
 $dokka.location:tools.aqua.bgw.animation/SteppedComponentAnimation///PointingToDeclaration/bgw-core/tools.aqua.bgw.animation/-stepped-component-animation/index.html
 $dokka.location:tools.aqua.bgw.animation/SteppedComponentAnimation/speed/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.animation/-stepped-component-animation/speed.html
-$dokka.location:tools.aqua.bgw.builder////PointingToDeclaration/bgw-core/tools.aqua.bgw.builder/index.html
-$dokka.location:tools.aqua.bgw.builder/DialogBuilder.Companion///PointingToDeclaration/bgw-core/tools.aqua.bgw.builder/-dialog-builder/-companion/index.html
-$dokka.location:tools.aqua.bgw.builder/DialogBuilder///PointingToDeclaration/bgw-core/tools.aqua.bgw.builder/-dialog-builder/index.html
-$dokka.location:tools.aqua.bgw.builder/DialogBuilder/DialogBuilder/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.builder/-dialog-builder/-dialog-builder.html
-$dokka.location:tools.aqua.bgw.builder/DragDropHelper.Companion///PointingToDeclaration/bgw-core/tools.aqua.bgw.builder/-drag-drop-helper/-companion/index.html
-$dokka.location:tools.aqua.bgw.builder/DragDropHelper///PointingToDeclaration/bgw-core/tools.aqua.bgw.builder/-drag-drop-helper/index.html
-$dokka.location:tools.aqua.bgw.builder/DragDropHelper/DragDropHelper/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.builder/-drag-drop-helper/-drag-drop-helper.html
-$dokka.location:tools.aqua.bgw.builder/FXConverters.Companion///PointingToDeclaration/bgw-core/tools.aqua.bgw.builder/-f-x-converters/-companion/index.html
-$dokka.location:tools.aqua.bgw.builder/FXConverters///PointingToDeclaration/bgw-core/tools.aqua.bgw.builder/-f-x-converters/index.html
-$dokka.location:tools.aqua.bgw.builder/FXConverters/FXConverters/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.builder/-f-x-converters/-f-x-converters.html
 $dokka.location:tools.aqua.bgw.components.container////PointingToDeclaration/bgw-core/tools.aqua.bgw.components.container/index.html
 $dokka.location:tools.aqua.bgw.components.container/Area///PointingToDeclaration/bgw-core/tools.aqua.bgw.components.container/-area/index.html
 $dokka.location:tools.aqua.bgw.components.container/Area/Area/#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.Number#tools.aqua.bgw.visual.Visual/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.container/-area/-area.html
@@ -131,7 +121,6 @@ $dokka.location:tools.aqua.bgw.components.gamecomponentviews/CardView/frontVisua
 $dokka.location:tools.aqua.bgw.components.gamecomponentviews/CardView/showBack/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.gamecomponentviews/-card-view/show-back.html
 $dokka.location:tools.aqua.bgw.components.gamecomponentviews/CardView/showCardSide/#tools.aqua.bgw.components.gamecomponentviews.CardView.CardSide/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.gamecomponentviews/-card-view/show-card-side.html
 $dokka.location:tools.aqua.bgw.components.gamecomponentviews/CardView/showFront/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.gamecomponentviews/-card-view/show-front.html
-$dokka.location:tools.aqua.bgw.components.gamecomponentviews/CardView/toString/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.gamecomponentviews/-card-view/to-string.html
 $dokka.location:tools.aqua.bgw.components.gamecomponentviews/DiceView///PointingToDeclaration/bgw-core/tools.aqua.bgw.components.gamecomponentviews/-dice-view/index.html
 $dokka.location:tools.aqua.bgw.components.gamecomponentviews/DiceView/DiceView/#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.collections.List[tools.aqua.bgw.visual.Visual]/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.gamecomponentviews/-dice-view/-dice-view.html
 $dokka.location:tools.aqua.bgw.components.gamecomponentviews/DiceView/currentSide/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.gamecomponentviews/-dice-view/current-side.html
@@ -193,9 +182,6 @@ $dokka.location:tools.aqua.bgw.components.layoutviews/Pane/removeComponentsListe
 $dokka.location:tools.aqua.bgw.components.uicomponents////PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/index.html
 $dokka.location:tools.aqua.bgw.components.uicomponents/Button///PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-button/index.html
 $dokka.location:tools.aqua.bgw.components.uicomponents/Button/Button/#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.String#tools.aqua.bgw.util.Font#tools.aqua.bgw.core.Alignment#kotlin.Boolean#tools.aqua.bgw.visual.Visual/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-button/-button.html
-$dokka.location:tools.aqua.bgw.components.uicomponents/CheckBox.Companion///PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-check-box/-companion/index.html
-$dokka.location:tools.aqua.bgw.components.uicomponents/CheckBox.Companion/DEFAULT_CHECKBOX_HEIGHT/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-check-box/-companion/-d-e-f-a-u-l-t_-c-h-e-c-k-b-o-x_-h-e-i-g-h-t.html
-$dokka.location:tools.aqua.bgw.components.uicomponents/CheckBox.Companion/DEFAULT_CHECKBOX_WIDTH/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-check-box/-companion/-d-e-f-a-u-l-t_-c-h-e-c-k-b-o-x_-w-i-d-t-h.html
 $dokka.location:tools.aqua.bgw.components.uicomponents/CheckBox///PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-check-box/index.html
 $dokka.location:tools.aqua.bgw.components.uicomponents/CheckBox/CheckBox/#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.String#tools.aqua.bgw.util.Font#tools.aqua.bgw.core.Alignment#kotlin.Boolean#tools.aqua.bgw.visual.Visual#kotlin.Boolean#kotlin.Boolean#kotlin.Boolean/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-check-box/-check-box.html
 $dokka.location:tools.aqua.bgw.components.uicomponents/CheckBox/allowIndeterminate/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-check-box/allow-indeterminate.html
@@ -204,16 +190,10 @@ $dokka.location:tools.aqua.bgw.components.uicomponents/CheckBox/checked/#/Pointi
 $dokka.location:tools.aqua.bgw.components.uicomponents/CheckBox/checkedProperty/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-check-box/checked-property.html
 $dokka.location:tools.aqua.bgw.components.uicomponents/CheckBox/indeterminateProperty/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-check-box/indeterminate-property.html
 $dokka.location:tools.aqua.bgw.components.uicomponents/CheckBox/isIndeterminate/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-check-box/is-indeterminate.html
-$dokka.location:tools.aqua.bgw.components.uicomponents/ColorPicker.Companion///PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-color-picker/-companion/index.html
-$dokka.location:tools.aqua.bgw.components.uicomponents/ColorPicker.Companion/DEFAULT_COLOR_PICKER_HEIGHT/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-color-picker/-companion/-d-e-f-a-u-l-t_-c-o-l-o-r_-p-i-c-k-e-r_-h-e-i-g-h-t.html
-$dokka.location:tools.aqua.bgw.components.uicomponents/ColorPicker.Companion/DEFAULT_COLOR_PICKER_WIDTH/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-color-picker/-companion/-d-e-f-a-u-l-t_-c-o-l-o-r_-p-i-c-k-e-r_-w-i-d-t-h.html
 $dokka.location:tools.aqua.bgw.components.uicomponents/ColorPicker///PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-color-picker/index.html
 $dokka.location:tools.aqua.bgw.components.uicomponents/ColorPicker/ColorPicker/#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.Number#java.awt.Color/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-color-picker/-color-picker.html
 $dokka.location:tools.aqua.bgw.components.uicomponents/ColorPicker/selectedColor/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-color-picker/selected-color.html
 $dokka.location:tools.aqua.bgw.components.uicomponents/ColorPicker/selectedColorProperty/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-color-picker/selected-color-property.html
-$dokka.location:tools.aqua.bgw.components.uicomponents/ComboBox.Companion///PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-combo-box/-companion/index.html
-$dokka.location:tools.aqua.bgw.components.uicomponents/ComboBox.Companion/DEFAULT_COMBOBOX_HEIGHT/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-combo-box/-companion/-d-e-f-a-u-l-t_-c-o-m-b-o-b-o-x_-h-e-i-g-h-t.html
-$dokka.location:tools.aqua.bgw.components.uicomponents/ComboBox.Companion/DEFAULT_COMBOBOX_WIDTH/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-combo-box/-companion/-d-e-f-a-u-l-t_-c-o-m-b-o-b-o-x_-w-i-d-t-h.html
 $dokka.location:tools.aqua.bgw.components.uicomponents/ComboBox///PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-combo-box/index.html
 $dokka.location:tools.aqua.bgw.components.uicomponents/ComboBox/ComboBox/#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.Number#tools.aqua.bgw.util.Font#kotlin.String#kotlin.collections.List[TypeParam(bounds=[kotlin.Any?])]#kotlin.Function1[TypeParam(bounds=[kotlin.Any?]),kotlin.String]?/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-combo-box/-combo-box.html
 $dokka.location:tools.aqua.bgw.components.uicomponents/ComboBox/formatFunction/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-combo-box/format-function.html
@@ -232,9 +212,6 @@ $dokka.location:tools.aqua.bgw.components.uicomponents/LabeledUIComponent/isWrap
 $dokka.location:tools.aqua.bgw.components.uicomponents/LabeledUIComponent/isWrapTextProperty/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-labeled-u-i-component/is-wrap-text-property.html
 $dokka.location:tools.aqua.bgw.components.uicomponents/LabeledUIComponent/text/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-labeled-u-i-component/text.html
 $dokka.location:tools.aqua.bgw.components.uicomponents/LabeledUIComponent/textProperty/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-labeled-u-i-component/text-property.html
-$dokka.location:tools.aqua.bgw.components.uicomponents/ListView.Companion///PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-list-view/-companion/index.html
-$dokka.location:tools.aqua.bgw.components.uicomponents/ListView.Companion/DEFAULT_LISTVIEW_HEIGHT/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-list-view/-companion/-d-e-f-a-u-l-t_-l-i-s-t-v-i-e-w_-h-e-i-g-h-t.html
-$dokka.location:tools.aqua.bgw.components.uicomponents/ListView.Companion/DEFAULT_LISTVIEW_WIDTH/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-list-view/-companion/-d-e-f-a-u-l-t_-l-i-s-t-v-i-e-w_-w-i-d-t-h.html
 $dokka.location:tools.aqua.bgw.components.uicomponents/ListView///PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-list-view/index.html
 $dokka.location:tools.aqua.bgw.components.uicomponents/ListView/ListView/#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.collections.List[TypeParam(bounds=[kotlin.Any?])]#tools.aqua.bgw.util.Font#tools.aqua.bgw.components.uicomponents.Orientation#kotlin.Function1[TypeParam(bounds=[kotlin.Any?]),kotlin.String]?/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-list-view/-list-view.html
 $dokka.location:tools.aqua.bgw.components.uicomponents/ListView/formatFunction/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-list-view/format-function.html
@@ -250,9 +227,6 @@ $dokka.location:tools.aqua.bgw.components.uicomponents/Orientation.VERTICAL///Po
 $dokka.location:tools.aqua.bgw.components.uicomponents/Orientation.VERTICAL/name/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-orientation/-v-e-r-t-i-c-a-l/name.html
 $dokka.location:tools.aqua.bgw.components.uicomponents/Orientation.VERTICAL/ordinal/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-orientation/-v-e-r-t-i-c-a-l/ordinal.html
 $dokka.location:tools.aqua.bgw.components.uicomponents/Orientation///PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-orientation/index.html
-$dokka.location:tools.aqua.bgw.components.uicomponents/ProgressBar.Companion///PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-progress-bar/-companion/index.html
-$dokka.location:tools.aqua.bgw.components.uicomponents/ProgressBar.Companion/DEFAULT_PROGRESSBAR_HEIGHT/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-progress-bar/-companion/-d-e-f-a-u-l-t_-p-r-o-g-r-e-s-s-b-a-r_-h-e-i-g-h-t.html
-$dokka.location:tools.aqua.bgw.components.uicomponents/ProgressBar.Companion/DEFAULT_PROGRESSBAR_WIDTH/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-progress-bar/-companion/-d-e-f-a-u-l-t_-p-r-o-g-r-e-s-s-b-a-r_-w-i-d-t-h.html
 $dokka.location:tools.aqua.bgw.components.uicomponents/ProgressBar///PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-progress-bar/index.html
 $dokka.location:tools.aqua.bgw.components.uicomponents/ProgressBar/ProgressBar/#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.Double#java.awt.Color/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-progress-bar/-progress-bar.html
 $dokka.location:tools.aqua.bgw.components.uicomponents/ProgressBar/barColor/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-progress-bar/bar-color.html
@@ -294,13 +268,6 @@ $dokka.location:tools.aqua.bgw.components.uicomponents/UIComponent/componentStyl
 $dokka.location:tools.aqua.bgw.components.uicomponents/UIComponent/font/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-u-i-component/font.html
 $dokka.location:tools.aqua.bgw.components.uicomponents/UIComponent/fontProperty/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.uicomponents/-u-i-component/font-property.html
 $dokka.location:tools.aqua.bgw.components////PointingToDeclaration/bgw-core/tools.aqua.bgw.components/index.html
-$dokka.location:tools.aqua.bgw.components//offset/tools.aqua.bgw.components.ComponentView#kotlin.Number#kotlin.Number/PointingToDeclaration/bgw-core/tools.aqua.bgw.components/offset.html
-$dokka.location:tools.aqua.bgw.components//reposition/tools.aqua.bgw.components.ComponentView#kotlin.Number#kotlin.Number/PointingToDeclaration/bgw-core/tools.aqua.bgw.components/reposition.html
-$dokka.location:tools.aqua.bgw.components//resize/tools.aqua.bgw.components.ComponentView#kotlin.Number#kotlin.Number/PointingToDeclaration/bgw-core/tools.aqua.bgw.components/resize.html
-$dokka.location:tools.aqua.bgw.components//rotate/tools.aqua.bgw.components.ComponentView#kotlin.Number/PointingToDeclaration/bgw-core/tools.aqua.bgw.components/rotate.html
-$dokka.location:tools.aqua.bgw.components//scale/tools.aqua.bgw.components.ComponentView#kotlin.Number/PointingToDeclaration/bgw-core/tools.aqua.bgw.components/scale.html
-$dokka.location:tools.aqua.bgw.components//scaleX/tools.aqua.bgw.components.ComponentView#kotlin.Number/PointingToDeclaration/bgw-core/tools.aqua.bgw.components/scale-x.html
-$dokka.location:tools.aqua.bgw.components//scaleY/tools.aqua.bgw.components.ComponentView#kotlin.Number/PointingToDeclaration/bgw-core/tools.aqua.bgw.components/scale-y.html
 $dokka.location:tools.aqua.bgw.components/ComponentView///PointingToDeclaration/bgw-core/tools.aqua.bgw.components/-component-view/index.html
 $dokka.location:tools.aqua.bgw.components/ComponentView/ComponentView/#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.Number#tools.aqua.bgw.visual.Visual/PointingToDeclaration/bgw-core/tools.aqua.bgw.components/-component-view/-component-view.html
 $dokka.location:tools.aqua.bgw.components/ComponentView/dropAcceptor/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components/-component-view/drop-acceptor.html
@@ -313,6 +280,7 @@ $dokka.location:tools.aqua.bgw.components/ComponentView/isFocusableProperty/#/Po
 $dokka.location:tools.aqua.bgw.components/ComponentView/isVisible/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components/-component-view/is-visible.html
 $dokka.location:tools.aqua.bgw.components/ComponentView/isVisibleProperty/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components/-component-view/is-visible-property.html
 $dokka.location:tools.aqua.bgw.components/ComponentView/name/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components/-component-view/name.html
+$dokka.location:tools.aqua.bgw.components/ComponentView/offset/#kotlin.Number#kotlin.Number/PointingToDeclaration/bgw-core/tools.aqua.bgw.components/-component-view/offset.html
 $dokka.location:tools.aqua.bgw.components/ComponentView/onDragDropped/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components/-component-view/on-drag-dropped.html
 $dokka.location:tools.aqua.bgw.components/ComponentView/onDragGestureEntered/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components/-component-view/on-drag-gesture-entered.html
 $dokka.location:tools.aqua.bgw.components/ComponentView/onDragGestureExited/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components/-component-view/on-drag-gesture-exited.html
@@ -332,12 +300,18 @@ $dokka.location:tools.aqua.bgw.components/ComponentView/posXProperty/#/PointingT
 $dokka.location:tools.aqua.bgw.components/ComponentView/posY/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components/-component-view/pos-y.html
 $dokka.location:tools.aqua.bgw.components/ComponentView/posYProperty/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components/-component-view/pos-y-property.html
 $dokka.location:tools.aqua.bgw.components/ComponentView/removeFromParent/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components/-component-view/remove-from-parent.html
+$dokka.location:tools.aqua.bgw.components/ComponentView/reposition/#kotlin.Number#kotlin.Number/PointingToDeclaration/bgw-core/tools.aqua.bgw.components/-component-view/reposition.html
+$dokka.location:tools.aqua.bgw.components/ComponentView/resize/#kotlin.Number#kotlin.Number/PointingToDeclaration/bgw-core/tools.aqua.bgw.components/-component-view/resize.html
+$dokka.location:tools.aqua.bgw.components/ComponentView/rotate/#kotlin.Number/PointingToDeclaration/bgw-core/tools.aqua.bgw.components/-component-view/rotate.html
 $dokka.location:tools.aqua.bgw.components/ComponentView/rotation/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components/-component-view/rotation.html
 $dokka.location:tools.aqua.bgw.components/ComponentView/rotationProperty/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components/-component-view/rotation-property.html
 $dokka.location:tools.aqua.bgw.components/ComponentView/scale/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components/-component-view/scale.html
+$dokka.location:tools.aqua.bgw.components/ComponentView/scale/#kotlin.Number/PointingToDeclaration/bgw-core/tools.aqua.bgw.components/-component-view/scale.html
 $dokka.location:tools.aqua.bgw.components/ComponentView/scaleX/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components/-component-view/scale-x.html
+$dokka.location:tools.aqua.bgw.components/ComponentView/scaleX/#kotlin.Number/PointingToDeclaration/bgw-core/tools.aqua.bgw.components/-component-view/scale-x.html
 $dokka.location:tools.aqua.bgw.components/ComponentView/scaleXProperty/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components/-component-view/scale-x-property.html
 $dokka.location:tools.aqua.bgw.components/ComponentView/scaleY/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components/-component-view/scale-y.html
+$dokka.location:tools.aqua.bgw.components/ComponentView/scaleY/#kotlin.Number/PointingToDeclaration/bgw-core/tools.aqua.bgw.components/-component-view/scale-y.html
 $dokka.location:tools.aqua.bgw.components/ComponentView/scaleYProperty/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components/-component-view/scale-y-property.html
 $dokka.location:tools.aqua.bgw.components/ComponentView/visual/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components/-component-view/visual.html
 $dokka.location:tools.aqua.bgw.components/ComponentView/width/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components/-component-view/width.html
@@ -367,6 +341,12 @@ $dokka.location:tools.aqua.bgw.core//DEFAULT_CARD_HEIGHT/#/PointingToDeclaration
 $dokka.location:tools.aqua.bgw.core//DEFAULT_CARD_STACK_HEIGHT/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-d-e-f-a-u-l-t_-c-a-r-d_-s-t-a-c-k_-h-e-i-g-h-t.html
 $dokka.location:tools.aqua.bgw.core//DEFAULT_CARD_STACK_WIDTH/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-d-e-f-a-u-l-t_-c-a-r-d_-s-t-a-c-k_-w-i-d-t-h.html
 $dokka.location:tools.aqua.bgw.core//DEFAULT_CARD_WIDTH/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-d-e-f-a-u-l-t_-c-a-r-d_-w-i-d-t-h.html
+$dokka.location:tools.aqua.bgw.core//DEFAULT_CHECKBOX_HEIGHT/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-d-e-f-a-u-l-t_-c-h-e-c-k-b-o-x_-h-e-i-g-h-t.html
+$dokka.location:tools.aqua.bgw.core//DEFAULT_CHECKBOX_WIDTH/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-d-e-f-a-u-l-t_-c-h-e-c-k-b-o-x_-w-i-d-t-h.html
+$dokka.location:tools.aqua.bgw.core//DEFAULT_COLOR_PICKER_HEIGHT/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-d-e-f-a-u-l-t_-c-o-l-o-r_-p-i-c-k-e-r_-h-e-i-g-h-t.html
+$dokka.location:tools.aqua.bgw.core//DEFAULT_COLOR_PICKER_WIDTH/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-d-e-f-a-u-l-t_-c-o-l-o-r_-p-i-c-k-e-r_-w-i-d-t-h.html
+$dokka.location:tools.aqua.bgw.core//DEFAULT_COMBOBOX_HEIGHT/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-d-e-f-a-u-l-t_-c-o-m-b-o-b-o-x_-h-e-i-g-h-t.html
+$dokka.location:tools.aqua.bgw.core//DEFAULT_COMBOBOX_WIDTH/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-d-e-f-a-u-l-t_-c-o-m-b-o-b-o-x_-w-i-d-t-h.html
 $dokka.location:tools.aqua.bgw.core//DEFAULT_DICE_HEIGHT/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-d-e-f-a-u-l-t_-d-i-c-e_-h-e-i-g-h-t.html
 $dokka.location:tools.aqua.bgw.core//DEFAULT_DICE_WIDTH/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-d-e-f-a-u-l-t_-d-i-c-e_-w-i-d-t-h.html
 $dokka.location:tools.aqua.bgw.core//DEFAULT_FADE_TIME/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-d-e-f-a-u-l-t_-f-a-d-e_-t-i-m-e.html
@@ -376,7 +356,11 @@ $dokka.location:tools.aqua.bgw.core//DEFAULT_LABEL_WIDTH/#/PointingToDeclaration
 $dokka.location:tools.aqua.bgw.core//DEFAULT_LINEAR_LAYOUT_HEIGHT/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-d-e-f-a-u-l-t_-l-i-n-e-a-r_-l-a-y-o-u-t_-h-e-i-g-h-t.html
 $dokka.location:tools.aqua.bgw.core//DEFAULT_LINEAR_LAYOUT_SPACING/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-d-e-f-a-u-l-t_-l-i-n-e-a-r_-l-a-y-o-u-t_-s-p-a-c-i-n-g.html
 $dokka.location:tools.aqua.bgw.core//DEFAULT_LINEAR_LAYOUT_WIDTH/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-d-e-f-a-u-l-t_-l-i-n-e-a-r_-l-a-y-o-u-t_-w-i-d-t-h.html
+$dokka.location:tools.aqua.bgw.core//DEFAULT_LISTVIEW_HEIGHT/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-d-e-f-a-u-l-t_-l-i-s-t-v-i-e-w_-h-e-i-g-h-t.html
+$dokka.location:tools.aqua.bgw.core//DEFAULT_LISTVIEW_WIDTH/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-d-e-f-a-u-l-t_-l-i-s-t-v-i-e-w_-w-i-d-t-h.html
 $dokka.location:tools.aqua.bgw.core//DEFAULT_MENU_SCENE_OPACITY/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-d-e-f-a-u-l-t_-m-e-n-u_-s-c-e-n-e_-o-p-a-c-i-t-y.html
+$dokka.location:tools.aqua.bgw.core//DEFAULT_PROGRESSBAR_HEIGHT/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-d-e-f-a-u-l-t_-p-r-o-g-r-e-s-s-b-a-r_-h-e-i-g-h-t.html
+$dokka.location:tools.aqua.bgw.core//DEFAULT_PROGRESSBAR_WIDTH/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-d-e-f-a-u-l-t_-p-r-o-g-r-e-s-s-b-a-r_-w-i-d-t-h.html
 $dokka.location:tools.aqua.bgw.core//DEFAULT_RADIO_BUTTON_HEIGHT/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-d-e-f-a-u-l-t_-r-a-d-i-o_-b-u-t-t-o-n_-h-e-i-g-h-t.html
 $dokka.location:tools.aqua.bgw.core//DEFAULT_RADIO_BUTTON_WIDTH/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-d-e-f-a-u-l-t_-r-a-d-i-o_-b-u-t-t-o-n_-w-i-d-t-h.html
 $dokka.location:tools.aqua.bgw.core//DEFAULT_SATCHEL_HEIGHT/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-d-e-f-a-u-l-t_-s-a-t-c-h-e-l_-h-e-i-g-h-t.html
@@ -1354,7 +1338,6 @@ $dokka.location:tools.aqua.bgw.visual/Visual.Companion/EMPTY/#/PointingToDeclara
 $dokka.location:tools.aqua.bgw.visual/Visual///PointingToDeclaration/bgw-core/tools.aqua.bgw.visual/-visual/index.html
 $dokka.location:tools.aqua.bgw.visual/Visual/copy/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.visual/-visual/copy.html
 tools.aqua.bgw.animation
-tools.aqua.bgw.builder
 tools.aqua.bgw.components
 tools.aqua.bgw.components.container
 tools.aqua.bgw.components.dsl
