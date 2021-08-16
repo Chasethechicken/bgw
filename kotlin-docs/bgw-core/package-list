@@ -348,6 +348,7 @@ $dokka.location:tools.aqua.bgw.core//DEFAULT_TOGGLE_BUTTON_HEIGHT/#/PointingToDe
 $dokka.location:tools.aqua.bgw.core//DEFAULT_TOGGLE_BUTTON_WIDTH/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-d-e-f-a-u-l-t_-t-o-g-g-l-e_-b-u-t-t-o-n_-w-i-d-t-h.html
 $dokka.location:tools.aqua.bgw.core//DEFAULT_TOKEN_HEIGHT/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-d-e-f-a-u-l-t_-t-o-k-e-n_-h-e-i-g-h-t.html
 $dokka.location:tools.aqua.bgw.core//DEFAULT_TOKEN_WIDTH/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-d-e-f-a-u-l-t_-t-o-k-e-n_-w-i-d-t-h.html
+$dokka.location:tools.aqua.bgw.core//DEFAULT_WINDOW_BORDER/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-d-e-f-a-u-l-t_-w-i-n-d-o-w_-b-o-r-d-e-r.html
 $dokka.location:tools.aqua.bgw.core//DEFAULT_WINDOW_HEIGHT/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-d-e-f-a-u-l-t_-w-i-n-d-o-w_-h-e-i-g-h-t.html
 $dokka.location:tools.aqua.bgw.core//DEFAULT_WINDOW_TITLE/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-d-e-f-a-u-l-t_-w-i-n-d-o-w_-t-i-t-l-e.html
 $dokka.location:tools.aqua.bgw.core//DEFAULT_WINDOW_WIDTH/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-d-e-f-a-u-l-t_-w-i-n-d-o-w_-w-i-d-t-h.html
@@ -401,9 +402,12 @@ $dokka.location:tools.aqua.bgw.core/Alignment.TOP_RIGHT/verticalAlignment/#/Poin
 $dokka.location:tools.aqua.bgw.core/Alignment///PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-alignment/index.html
 $dokka.location:tools.aqua.bgw.core/Alignment/horizontalAlignment/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-alignment/horizontal-alignment.html
 $dokka.location:tools.aqua.bgw.core/Alignment/verticalAlignment/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-alignment/vertical-alignment.html
+$dokka.location:tools.aqua.bgw.core/AspectRatio///PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-aspect-ratio/index.html
+$dokka.location:tools.aqua.bgw.core/AspectRatio/AspectRatio/#kotlin.Number#kotlin.Number/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-aspect-ratio/-aspect-ratio.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication.Companion///PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-board-game-application/-companion/index.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication///PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-board-game-application/index.html
-$dokka.location:tools.aqua.bgw.core/BoardGameApplication/BoardGameApplication/#kotlin.String/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-board-game-application/-board-game-application.html
+$dokka.location:tools.aqua.bgw.core/BoardGameApplication/BoardGameApplication/#kotlin.String#kotlin.Number#kotlin.Number/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-board-game-application/-board-game-application.html
+$dokka.location:tools.aqua.bgw.core/BoardGameApplication/BoardGameApplication/#kotlin.String#tools.aqua.bgw.core.AspectRatio/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-board-game-application/-board-game-application.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/background/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-board-game-application/background.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/exit/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-board-game-application/exit.html
 $dokka.location:tools.aqua.bgw.core/BoardGameApplication/hideMenuScene/#kotlin.Number/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-board-game-application/hide-menu-scene.html
