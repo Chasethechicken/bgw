@@ -72,11 +72,11 @@ pre {
 
 <div>
   <ul>
-    <li>506 number of properties</li>
-    <li>402 number of functions</li>
-    <li>290 number of classes</li>
-    <li>15 number of packages</li>
-    <li>111 number of kt files</li>
+    <li>531 number of properties</li>
+    <li>401 number of functions</li>
+    <li>295 number of classes</li>
+    <li>16 number of packages</li>
+    <li>116 number of kt files</li>
   </ul>
 </div>
 
@@ -85,23 +85,50 @@ pre {
 
 <div>
   <ul>
-    <li>14,053 lines of code (loc)</li>
-    <li>5,127 source lines of code (sloc)</li>
-    <li>3,862 logical lines of code (lloc)</li>
-    <li>7,373 comment lines of code (cloc)</li>
-    <li>933 cyclomatic complexity (mcc)</li>
-    <li>292 cognitive complexity</li>
-    <li>2 number of total code smells</li>
-    <li>143% comment source ratio</li>
-    <li>241 mcc per 1,000 lloc</li>
-    <li>0 code smells per 1,000 lloc</li>
+    <li>14,314 lines of code (loc)</li>
+    <li>5,160 source lines of code (sloc)</li>
+    <li>3,890 logical lines of code (lloc)</li>
+    <li>7,567 comment lines of code (cloc)</li>
+    <li>916 cyclomatic complexity (mcc)</li>
+    <li>289 cognitive complexity</li>
+    <li>9 number of total code smells</li>
+    <li>146% comment source ratio</li>
+    <li>235 mcc per 1,000 lloc</li>
+    <li>2 code smells per 1,000 lloc</li>
   </ul>
 </div>
 
 
 <h2>Findings</h2>
-<div>Total: 2
-  <h3>complexity: 2</h3>
+<div>Total: 9
+  <h3>comments: 2</h3>
+  <details id="AbsentOrWrongFileLicense" open="open">
+    <summary class="rule-container"><span class="rule">AbsentOrWrongFileLicense: 1 </span><span class="description">License text is absent or incorrect in the file.</span></summary>
+    <ul>
+      <li><span class="location">/home/runner/work/bgw/bgw/bgw-core/src/main/kotlin/tools/aqua/bgw/util/Trig.kt:1:1</span><span class="message">Expected license not found or incorrect in the file: /home/runner/work/bgw/bgw/bgw-core/src/main/kotlin/tools/aqua/bgw/util/Trig.kt.</span>
+        <pre><code><span class="lineno">   1 </span><span class="error">package tools.aqua.bgw.util</span>
+<span class="lineno">   2 </span>
+<span class="lineno">   3 </span>class Trig {
+<span class="lineno">   4 </span>	companion object{
+</code></pre>
+      </li>
+    </ul>
+  </details>
+  <details id="UndocumentedPublicClass" open="open">
+    <summary class="rule-container"><span class="rule">UndocumentedPublicClass: 1 </span><span class="description">Public classes, interfaces and objects require documentation.</span></summary>
+    <ul>
+      <li><span class="location">/home/runner/work/bgw/bgw/bgw-core/src/main/kotlin/tools/aqua/bgw/util/Trig.kt:3:7</span><span class="message">Trig is missing required documentation.</span>
+        <pre><code><span class="lineno">   1 </span>package tools.aqua.bgw.util
+<span class="lineno">   2 </span>
+<span class="lineno">   3 </span>class <span class="error">Trig</span> {
+<span class="lineno">   4 </span>	companion object{
+<span class="lineno">   5 </span>		/**
+<span class="lineno">   6 </span>		 * Sin function for angles in degrees.
+</code></pre>
+      </li>
+    </ul>
+  </details>
+  <h3>complexity: 3</h3>
   <details id="LongMethod" open="open">
     <summary class="rule-container"><span class="rule">LongMethod: 1 </span><span class="description">One method should have one responsibility. Long methods tend to handle many things at once. Prefer smaller methods to make them easier to understand.</span></summary>
     <ul>
@@ -132,10 +159,84 @@ pre {
       </li>
     </ul>
   </details>
+  <details id="TooManyFunctions" open="open">
+    <summary class="rule-container"><span class="rule">TooManyFunctions: 1 </span><span class="description">Too many functions inside a/an file/class/object/interface always indicate a violation of the single responsibility principle. Maybe the file/class/object/interface wants to manage too many things at once. Extract functionality which clearly belongs together.</span></summary>
+    <ul>
+      <li><span class="location">/home/runner/work/bgw/bgw/bgw-core/src/main/kotlin/tools/aqua/bgw/components/ComponentView.kt:56:16</span><span class="message">Class 'ComponentView' with '11' functions detected. Defined threshold inside classes is set to '11'</span>
+        <pre><code><span class="lineno">  53 </span> *
+<span class="lineno">  54 </span> * @see IllegalInheritanceException
+<span class="lineno">  55 </span> */
+<span class="lineno">  56 </span>abstract class <span class="error">ComponentView</span> internal constructor(
+<span class="lineno">  57 </span>	posX: Number,
+<span class="lineno">  58 </span>	posY: Number,
+<span class="lineno">  59 </span>	width: Number,
+</code></pre>
+      </li>
+    </ul>
+  </details>
+  <h3>style: 4</h3>
+  <details id="ClassOrdering" open="open">
+    <summary class="rule-container"><span class="rule">ClassOrdering: 1 </span><span class="description">Class contents should be in this order: Property declarations/initializer blocks; secondary constructors; method declarations then companion objects.</span></summary>
+    <ul>
+      <li><span class="location">/home/runner/work/bgw/bgw/bgw-core/src/main/kotlin/tools/aqua/bgw/util/Stack.kt:37:2</span><span class="message">Stack (secondary constructor) should not come before size (property)</span>
+        <pre><code><span class="lineno">  34 </span>	 */
+<span class="lineno">  35 </span>	constructor(vararg element: T) : this(element.toList())
+<span class="lineno">  36 </span>
+<span class="lineno">  37 </span>	<span class="error">/**</span>
+<span class="lineno">  38 </span><span class="error">	 * Creates an empty [Stack].</span>
+<span class="lineno">  39 </span><span class="error">	 */</span>
+<span class="lineno">  40 </span><span class="error">	constructor() : this(listOf())</span>
+</code></pre>
+      </li>
+    </ul>
+  </details>
+  <details id="ExpressionBodySyntax" open="open">
+    <summary class="rule-container"><span class="rule">ExpressionBodySyntax: 1 </span><span class="description">Functions with exact one statement, the return statement, can be rewritten with ExpressionBodySyntax.</span></summary>
+    <ul>
+      <li><span class="location">/home/runner/work/bgw/bgw/bgw-core/src/main/kotlin/tools/aqua/bgw/util/CoordinatePlain.kt:152:3</span><span class="message">Functions with exact one statement, the return statement, can be rewritten with ExpressionBodySyntax.</span>
+        <pre><code><span class="lineno"> 149 </span>	)
+<span class="lineno"> 150 </span>	
+<span class="lineno"> 151 </span>	override fun toString(): String {
+<span class="lineno"> 152 </span>		<span class="error">return &quot;CoordinatePlain(topLeft=$topLeft, topRight=$topRight, bottomLeft=$bottomLeft, bottomRight=$bottomRight, width=$width, height=$height)&quot;</span>
+<span class="lineno"> 153 </span>	}
+<span class="lineno"> 154 </span>}
+</code></pre>
+      </li>
+    </ul>
+  </details>
+  <details id="MaxLineLength" open="open">
+    <summary class="rule-container"><span class="rule">MaxLineLength: 1 </span><span class="description">Line detected that is longer than the defined maximum line length in the code style.</span></summary>
+    <ul>
+      <li><span class="location">/home/runner/work/bgw/bgw/bgw-core/src/main/kotlin/tools/aqua/bgw/util/CoordinatePlain.kt:152:3</span><span class="message">Line detected that is longer than the defined maximum line length in the code style.</span>
+        <pre><code><span class="lineno"> 149 </span>	)
+<span class="lineno"> 150 </span>	
+<span class="lineno"> 151 </span>	override fun toString(): String {
+<span class="lineno"> 152 </span>		<span class="error">return &quot;CoordinatePlain(topLeft=$topLeft, topRight=$topRight, bottomLeft=$bottomLeft, bottomRight=$bottomRight, width=$width, height=$height)&quot;</span>
+<span class="lineno"> 153 </span>	}
+<span class="lineno"> 154 </span>}
+</code></pre>
+      </li>
+    </ul>
+  </details>
+  <details id="UseCheckOrError" open="open">
+    <summary class="rule-container"><span class="rule">UseCheckOrError: 1 </span><span class="description">Use check() or error() instead of throwing an IllegalStateException.</span></summary>
+    <ul>
+      <li><span class="location">/home/runner/work/bgw/bgw/bgw-core/src/main/kotlin/tools/aqua/bgw/builder/Frontend.kt:322:7</span><span class="message">Use check() or error() instead of throwing an IllegalStateException.</span>
+        <pre><code><span class="lineno"> 319 </span>				boardGameScene -&gt; gamePane
+<span class="lineno"> 320 </span>				menuScene -&gt; menuPane
+<span class="lineno"> 321 </span>				else -&gt; null
+<span class="lineno"> 322 </span>			}?:<span class="error">throw IllegalStateException()</span>
+<span class="lineno"> 323 </span>
+<span class="lineno"> 324 </span>		/**
+<span class="lineno"> 325 </span>		 * Returns scene associated to pane.
+</code></pre>
+      </li>
+    </ul>
+  </details>
 </div>
 
 
-generated with <a href="https://arturbosch.github.io/detekt">detekt version 1.15.0</a> on 2021-08-25 10:37:31 UTC.
+generated with <a href="https://arturbosch.github.io/detekt">detekt version 1.15.0</a> on 2021-08-30 11:28:23 UTC.
 
 </body>
 </html>
