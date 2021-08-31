@@ -103,6 +103,7 @@ $dokka.location:tools.aqua.bgw.components.gamecomponentviews/CardView/frontVisua
 $dokka.location:tools.aqua.bgw.components.gamecomponentviews/CardView/showBack/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.gamecomponentviews/-card-view/show-back.html
 $dokka.location:tools.aqua.bgw.components.gamecomponentviews/CardView/showCardSide/#tools.aqua.bgw.components.gamecomponentviews.CardView.CardSide/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.gamecomponentviews/-card-view/show-card-side.html
 $dokka.location:tools.aqua.bgw.components.gamecomponentviews/CardView/showFront/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.gamecomponentviews/-card-view/show-front.html
+$dokka.location:tools.aqua.bgw.components.gamecomponentviews/CardView/visual/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.gamecomponentviews/-card-view/visual.html
 $dokka.location:tools.aqua.bgw.components.gamecomponentviews/DiceView///PointingToDeclaration/bgw-core/tools.aqua.bgw.components.gamecomponentviews/-dice-view/index.html
 $dokka.location:tools.aqua.bgw.components.gamecomponentviews/DiceView/DiceView/#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.Number#kotlin.collections.List[tools.aqua.bgw.visual.Visual]/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.gamecomponentviews/-dice-view/-dice-view.html
 $dokka.location:tools.aqua.bgw.components.gamecomponentviews/DiceView/currentSide/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.components.gamecomponentviews/-dice-view/current-side.html
