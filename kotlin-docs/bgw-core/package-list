@@ -479,6 +479,7 @@ $dokka.location:tools.aqua.bgw.core/Scene///PointingToDeclaration/bgw-core/tool
 $dokka.location:tools.aqua.bgw.core/Scene/addComponents/#kotlin.Array[TypeParam(bounds=[tools.aqua.bgw.components.ComponentView])]/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-scene/add-components.html
 $dokka.location:tools.aqua.bgw.core/Scene/background/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-scene/background.html
 $dokka.location:tools.aqua.bgw.core/Scene/clearComponents/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-scene/clear-components.html
+$dokka.location:tools.aqua.bgw.core/Scene/components/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-scene/components.html
 $dokka.location:tools.aqua.bgw.core/Scene/draggedComponent/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-scene/dragged-component.html
 $dokka.location:tools.aqua.bgw.core/Scene/findPathToChild/#tools.aqua.bgw.components.ComponentView/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-scene/find-path-to-child.html
 $dokka.location:tools.aqua.bgw.core/Scene/height/#/PointingToDeclaration/bgw-core/tools.aqua.bgw.core/-scene/height.html
