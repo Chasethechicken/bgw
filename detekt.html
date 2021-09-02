@@ -85,13 +85,13 @@ pre {
 
 <div>
   <ul>
-    <li>14,414 lines of code (loc)</li>
-    <li>5,211 source lines of code (sloc)</li>
-    <li>3,928 logical lines of code (lloc)</li>
+    <li>14,427 lines of code (loc)</li>
+    <li>5,220 source lines of code (sloc)</li>
+    <li>3,937 logical lines of code (lloc)</li>
     <li>7,604 comment lines of code (cloc)</li>
-    <li>921 cyclomatic complexity (mcc)</li>
-    <li>296 cognitive complexity</li>
-    <li>9 number of total code smells</li>
+    <li>924 cyclomatic complexity (mcc)</li>
+    <li>300 cognitive complexity</li>
+    <li>10 number of total code smells</li>
     <li>145% comment source ratio</li>
     <li>234 mcc per 1,000 lloc</li>
     <li>2 code smells per 1,000 lloc</li>
@@ -100,7 +100,7 @@ pre {
 
 
 <h2>Findings</h2>
-<div>Total: 9
+<div>Total: 10
   <h3>comments: 2</h3>
   <details id="AbsentOrWrongFileLicense" open="open">
     <summary class="rule-container"><span class="rule">AbsentOrWrongFileLicense: 1 </span><span class="description">License text is absent or incorrect in the file.</span></summary>
@@ -128,9 +128,9 @@ pre {
       </li>
     </ul>
   </details>
-  <h3>complexity: 3</h3>
+  <h3>complexity: 4</h3>
   <details id="LongMethod" open="open">
-    <summary class="rule-container"><span class="rule">LongMethod: 1 </span><span class="description">One method should have one responsibility. Long methods tend to handle many things at once. Prefer smaller methods to make them easier to understand.</span></summary>
+    <summary class="rule-container"><span class="rule">LongMethod: 2 </span><span class="description">One method should have one responsibility. Long methods tend to handle many things at once. Prefer smaller methods to make them easier to understand.</span></summary>
     <ul>
       <li><span class="location">/home/runner/work/bgw/bgw/bgw-core/src/main/kotlin/tools/aqua/bgw/builder/FXConverters.kt:106:26</span><span class="message">The function toKeyCode is too long (100). The maximum length is 60.</span>
         <pre><code><span class="lineno"> 103 </span>		/**
@@ -140,6 +140,16 @@ pre {
 <span class="lineno"> 107 </span>			FXKeyCode.SHIFT -&gt; KeyCode.SHIFT
 <span class="lineno"> 108 </span>			FXKeyCode.CONTROL -&gt; KeyCode.CONTROL
 <span class="lineno"> 109 </span>			FXKeyCode.ALT -&gt; KeyCode.ALT
+</code></pre>
+      </li>
+      <li><span class="location">/home/runner/work/bgw/bgw/bgw-core/src/main/kotlin/tools/aqua/bgw/builder/LayoutNodeBuilder.kt:71:22</span><span class="message">The function refreshGrid is too long (68). The maximum length is 60.</span>
+        <pre><code><span class="lineno">  68 </span>		/**
+<span class="lineno">  69 </span>		 * Refreshes [GridPane].
+<span class="lineno">  70 </span>		 */
+<span class="lineno">  71 </span>		private fun FXPane.<span class="error">refreshGrid</span>(scene: Scene&lt;out ComponentView&gt;, gridView: GridPane&lt;out ComponentView&gt;) {
+<span class="lineno">  72 </span>			val grid: ComponentViewGrid&lt;out ComponentView&gt; = gridView.grid
+<span class="lineno">  73 </span>			
+<span class="lineno">  74 </span>			children.clear()
 </code></pre>
       </li>
     </ul>
@@ -193,13 +203,13 @@ pre {
   <details id="ExpressionBodySyntax" open="open">
     <summary class="rule-container"><span class="rule">ExpressionBodySyntax: 1 </span><span class="description">Functions with exact one statement, the return statement, can be rewritten with ExpressionBodySyntax.</span></summary>
     <ul>
-      <li><span class="location">/home/runner/work/bgw/bgw/bgw-core/src/main/kotlin/tools/aqua/bgw/util/CoordinatePlain.kt:152:3</span><span class="message">Functions with exact one statement, the return statement, can be rewritten with ExpressionBodySyntax.</span>
-        <pre><code><span class="lineno"> 149 </span>	)
-<span class="lineno"> 150 </span>	
-<span class="lineno"> 151 </span>	override fun toString(): String {
-<span class="lineno"> 152 </span>		<span class="error">return &quot;CoordinatePlain(topLeft=$topLeft, topRight=$topRight, bottomLeft=$bottomLeft, bottomRight=$bottomRight, width=$width, height=$height)&quot;</span>
-<span class="lineno"> 153 </span>	}
-<span class="lineno"> 154 </span>}
+      <li><span class="location">/home/runner/work/bgw/bgw/bgw-core/src/main/kotlin/tools/aqua/bgw/util/CoordinatePlain.kt:153:3</span><span class="message">Functions with exact one statement, the return statement, can be rewritten with ExpressionBodySyntax.</span>
+        <pre><code><span class="lineno"> 150 </span>	)
+<span class="lineno"> 151 </span>	
+<span class="lineno"> 152 </span>	override fun toString(): String {
+<span class="lineno"> 153 </span>		<span class="error">return &quot;CoordinatePlain(topLeft=$topLeft, topRight=$topRight, bottomLeft=$bottomLeft, bottomRight=$bottomRight, width=$width, height=$height)&quot;</span>
+<span class="lineno"> 154 </span>	}
+<span class="lineno"> 155 </span>}
 </code></pre>
       </li>
     </ul>
@@ -207,13 +217,13 @@ pre {
   <details id="MaxLineLength" open="open">
     <summary class="rule-container"><span class="rule">MaxLineLength: 1 </span><span class="description">Line detected that is longer than the defined maximum line length in the code style.</span></summary>
     <ul>
-      <li><span class="location">/home/runner/work/bgw/bgw/bgw-core/src/main/kotlin/tools/aqua/bgw/util/CoordinatePlain.kt:152:3</span><span class="message">Line detected that is longer than the defined maximum line length in the code style.</span>
-        <pre><code><span class="lineno"> 149 </span>	)
-<span class="lineno"> 150 </span>	
-<span class="lineno"> 151 </span>	override fun toString(): String {
-<span class="lineno"> 152 </span>		<span class="error">return &quot;CoordinatePlain(topLeft=$topLeft, topRight=$topRight, bottomLeft=$bottomLeft, bottomRight=$bottomRight, width=$width, height=$height)&quot;</span>
-<span class="lineno"> 153 </span>	}
-<span class="lineno"> 154 </span>}
+      <li><span class="location">/home/runner/work/bgw/bgw/bgw-core/src/main/kotlin/tools/aqua/bgw/util/CoordinatePlain.kt:153:3</span><span class="message">Line detected that is longer than the defined maximum line length in the code style.</span>
+        <pre><code><span class="lineno"> 150 </span>	)
+<span class="lineno"> 151 </span>	
+<span class="lineno"> 152 </span>	override fun toString(): String {
+<span class="lineno"> 153 </span>		<span class="error">return &quot;CoordinatePlain(topLeft=$topLeft, topRight=$topRight, bottomLeft=$bottomLeft, bottomRight=$bottomRight, width=$width, height=$height)&quot;</span>
+<span class="lineno"> 154 </span>	}
+<span class="lineno"> 155 </span>}
 </code></pre>
       </li>
     </ul>
@@ -236,7 +246,7 @@ pre {
 </div>
 
 
-generated with <a href="https://arturbosch.github.io/detekt">detekt version 1.15.0</a> on 2021-09-01 17:10:00 UTC.
+generated with <a href="https://arturbosch.github.io/detekt">detekt version 1.15.0</a> on 2021-09-02 10:03:19 UTC.
 
 </body>
 </html>
