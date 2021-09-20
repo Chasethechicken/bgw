@@ -8,11 +8,11 @@ import tools.aqua.bgw.core.BoardGameScene
 import tools.aqua.bgw.visual.ColorVisual
 
 class TestScene : BoardGameScene() {
-    private val sourceArea = Area<TokenView>(
-        posX = 100,
-        posY = 100,
-        width = 130,
-        height = 200,
+    private val source = GridPane<TokenView>(
+        posX = 500,
+        posY = 500,
+        columns = 2,
+        rows = 2,
         visual = ColorVisual.GREEN,
     )
 
@@ -30,12 +30,27 @@ class TestScene : BoardGameScene() {
         visual = ColorVisual.BLUE,
     ).apply {
         onMouseClicked = {
-            testAnimation(target, 0, 0)
+            testAnimation(target, 1, 1)
         }
     }
 
     init {
-        sourceArea.add(tokenView)
+        source[1, 1] = tokenView
+        source[1, 0] = TokenView(
+            width = 130,
+            height = 200,
+            visual = ColorVisual.LIGHT_GRAY,
+        )
+        source[0, 1] = TokenView(
+            width = 130,
+            height = 200,
+            visual = ColorVisual.LIGHT_GRAY,
+        )
+        source[0, 0] = TokenView(
+            width = 130,
+            height = 200,
+            visual = ColorVisual.LIGHT_GRAY,
+        )
 
         target[0, 0] = TokenView(
             width = 130,
@@ -58,7 +73,7 @@ class TestScene : BoardGameScene() {
             visual = ColorVisual.LIGHT_GRAY,
         )
 
-        addComponents(sourceArea, target)
+        addComponents(source, target)
     }
 
     private fun testAnimation(targetGridPane: GridPane<TokenView>, targetX: Int, targetY: Int) {
