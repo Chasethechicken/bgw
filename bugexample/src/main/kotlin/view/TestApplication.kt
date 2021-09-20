@@ -2,7 +2,7 @@ package view
 
 import tools.aqua.bgw.core.BoardGameApplication
 
-class SchwimmenApplication : BoardGameApplication("") {
+class TestApplication : BoardGameApplication("") {
     private val testScene = TestScene()
 
     init {

@@ -16,63 +16,54 @@ class TestScene : BoardGameScene() {
         visual = ColorVisual.GREEN,
     )
 
-    private val target = GridPane<TokenView>(
-        posX = 1000,
-        posY = 500,
-        columns = 2,
-        rows = 2,
-        visual = ColorVisual.RED,
-    )
-
     private val tokenView = TokenView(
         width = 130,
         height = 200,
         visual = ColorVisual.BLUE,
     ).apply {
         onMouseClicked = {
-            testAnimation(target, 0, 0)
+            animate()
         }
     }
 
     init {
         sourceArea.add(tokenView)
 
-        target[0, 0] = TokenView(
-            width = 130,
-            height = 200,
-            visual = ColorVisual.LIGHT_GRAY,
-        )
-        target[1, 0] = TokenView(
-            width = 130,
-            height = 200,
-            visual = ColorVisual.LIGHT_GRAY,
-        )
-        target[0, 1] = TokenView(
-            width = 130,
-            height = 200,
-            visual = ColorVisual.LIGHT_GRAY,
-        )
-        target[1, 1] = TokenView(
-            width = 130,
-            height = 200,
-            visual = ColorVisual.LIGHT_GRAY,
-        )
+        addComponents(sourceArea)
 
-        addComponents(sourceArea, target)
+        println("Expected: 0 / 0")
+        println(tokenView.posX)
+        println(tokenView.posY)
+        println("Expected: 50 / 50")
+        tokenView.reposition(50, 50)
+        println(tokenView.posX)
+        println(tokenView.posY)
+        println("Expected: 0 / 0")
+        tokenView.posX = 0.0
+        tokenView.posY = 0.0
+        println(tokenView.posX)
+        println(tokenView.posY)
+        println()
     }
 
-    private fun testAnimation(targetGridPane: GridPane<TokenView>, targetX: Int, targetY: Int) {
-        val targetView = checkNotNull(targetGridPane[targetX, targetY])
+    private fun animate() {
         playAnimation(
-            MovementAnimation.toComponentView(
-                componentView = tokenView,
-                toComponentViewPosition = targetView,
-                scene = this,
-                duration = 2000,
+            MovementAnimation(
+                tokenView,
+                200,
+                200,
+                2000
             ).apply {
                 onFinished = {
-                    tokenView.removeFromParent()
-                    targetGridPane[targetX, targetY] = tokenView
+                    println("Expected: 200 / 200")
+                    println(tokenView.posX)
+                    println(tokenView.posY)
+                    println("Expected: 0 / 0")
+                    tokenView.posX = 0.0
+                    tokenView.posY = 0.0
+                    println(tokenView.posX)
+                    println(tokenView.posY)
+                    println()
                 }
             }
         )

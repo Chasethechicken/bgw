@@ -19,16 +19,13 @@ repositories {
 application {
     mainClass.set("MainKt")
     applicationDefaultJvmArgs = listOf(
-        "-Djavafx.verbose=true",
-        "-Dprism.verbose=true",
-        "-Dprism.order=es2",
-        "-Dprism.forceGPU=true", /*"-Dquantum.verbose=true"*/
+        "-Dprism.forceGPU=true",
     )
 }
 
 dependencies {
     testImplementation(kotlin("test-junit5"))
-    implementation(group = "tools.aqua", name = "bgw-core", version = "0.4-SNAPSHOT")
+    implementation(group = "tools.aqua", name = "bgw-core", version = "0.3")
 }
 
 tasks.distZip {

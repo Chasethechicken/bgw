@@ -1,5 +1,5 @@
-import view.SchwimmenApplication
+import view.TestApplication
 
 fun main() {
-    SchwimmenApplication().show()
+    TestApplication().show()
 }
